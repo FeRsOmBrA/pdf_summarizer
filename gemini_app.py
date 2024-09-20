@@ -3,7 +3,7 @@ import fitz  # PyMuPDF
 import google.generativeai as genai
 
 # Configura tu clave API de Google AI
-genai.configure(api_key="AIzaSyBkfTKJoPd_M5aphaUwM2P0XdM_C3tG8NY")  # Reemplaza "TU_CLAVE_DE_API" con tu clave de API real
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])  # Reemplaza "TU_CLAVE_DE_API" con tu clave de API real
 
 # Configuraciones de generación y seguridad
 generation_config = {
