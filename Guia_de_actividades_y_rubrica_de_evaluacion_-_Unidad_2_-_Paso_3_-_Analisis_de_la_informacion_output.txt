@@ -1,0 +1,617 @@
+--- Página 1 ---
+ 
+ 
+1 
+ 
+Universidad Nacional Abierta y a Distancia 
+Vicerrectoría Académica y de Investigación 
+Curso: Estadística 
+Código: 202107095 
+ 
+Guía de actividades y rúbrica de evaluación – Paso 3 Análisis de la 
+información. 
+1. Descripción de la actividad. 
+Tipo de actividad: Independiente 
+Momento de la evaluación: Intermedio 
+Puntaje máximo de la actividad: 120 puntos 
+La actividad inicia el: jueves, 21 
+de marzo de 2024 
+La actividad finaliza el: 
+miércoles, 17 de abril de 2024 
+Con esta actividad se espera conseguir los siguientes 
+resultados de aprendizaje:  
+Resultado de aprendizaje 3: Aplicar las medidas estadísticas 
+univariantes, a través del cálculo e interpretación del software 
+estadístico, en función de la problemática de estudio. 
+La actividad consiste en: 
+La presente guía consta de cinco (5) actividades, para ello, cada 
+estudiante debe tener en cuenta las siguientes orientaciones: 
+Actividad 1. Mapa Mental 
+Para el desarrollo de esta actividad, es necesario que el estudiante 
+revise en el Entorno de Aprendizaje - Contenidos y referentes 
+bibliográficos (Unidad 2), las siguientes referencias:  
+• Martínez, E. (2020). Estadística. ed. Santiago de los Caballeros: 
+Universidad Abierta para Adultos (UAPA). (pp. 126-220). 
+ 
+Descripción de la Actividad (Individual):   
+El estudiante deberá resumir cada una de las medidas estadísticas 
+univariantes (medidas de tendencia central, medidas de posición, 
+medidas de dispersión, medidas de asimetría y de apuntamiento) y 
+
+
+--- Página 2 ---
+ 
+ 
+2 
+ 
+deberá realizar un mapa mental describiendo ampliamente, sus 
+características, parámetros, clasificación, aplicación, entre otras.  
+Cabe aclarar que un mapa mental es una herramienta empleada para 
+facilitar el aprendizaje mediante la visualización de ideas de forma 
+esquematizada, todas ellas relacionadas entre sí, las cuales en 
+conjunto ayudan a explicar un tema específico. Para su diseño inicie 
+colocando la idea central en el centro utilizando palabras o imágenes, 
+posteriormente desarrolle a su alrededor el resto de las ideas 
+relacionadas con el tema, para establecer el orden jerárquico entre las 
+ideas, desarrolle las mismas en el sentido de las manecillas del reloj. 
+Además, utilice líneas para establecer la relación entre el concepto 
+principal y las demás ideas; recuerde, que puede utilizar colores, 
+imágenes, símbolos, figuras o elementos que permitan diferenciar las 
+ideas. Note que es diferente a realizar un mapa conceptual (Figura 1).   
+ 
+Figura 1. Esquema mapa mental, http://mapamental.net/que-es-un-
+mapa-mental/ 
+Nota: Socializar el mapa mental en el Foro de discusión - Unidad 2 - 
+Paso 3 - Análisis de la Información. Además, cada estudiante deberá 
+dar un comentario sobre el trabajo de los demás, proponiendo cómo 
+complementarlo. 
+ 
+Actividad 2. Aplicación de medidas estadísticas univariantes 
+Para el desarrollo de esta actividad, es necesario que el estudiante 
+consulte en la biblioteca en línea de la UNAD (e – biblioteca) a través 
+del siguiente enlace: https://stadium.unad.edu.co/ o dirigirse 
+directamente a la biblioteca del campus virtual y busque un artículo 
+académico o científico a nivel internacional (en una segunda lengua) 
+
+
+--- Página 3 ---
+ 
+ 
+3 
+ 
+de su interés donde se relacionen las medidas estadísticas 
+univariantes. 
+ 
+Descripción de la Actividad Individual: 
+A partir de la lectura de un artículo académico o científico, en el cual se 
+implemente las medidas estadísticas univariantes, el estudiante deberá 
+realizar un breve resumen compuesto por mínimo 100 palabras en 
+español donde se destaque objetivos, resultados y conclusiones 
+del artículo. 
+ 
+Actividad 3. Medidas Univariantes - Variable Discreta 
+Las Actividades 3 y 4 las puede realizar utilizando Excel (Office) o el 
+software Estadístico Infostat. 
+Video Tutorial para la descarga del software Infostat: 
+https://repository.unad.edu.co/handle/10596/7779 
+Enlace para la descarga del Infostat: 
+www.infostat.com.ar 
+Para el desarrollo de esta actividad, es necesario que el estudiante 
+revise en el Entorno de Aprendizaje - contenidos y referentes 
+bibliográficos (Unidad 2), las siguientes referencias: 
+
+
+--- Página 4 ---
+ 
+ 
+4 
+ 
+• Matus, R. (2010). Estadística. ed. México: Instituto Politécnico 
+Nacional. (pp. 2-8).  
+• Martínez, E. (2020) Estadística. ed. Santiago de los Caballeros: 
+Universidad Abierta para Adultos (UAPA). (pp. 126-220).  
+Descripción de la Actividad Individual: 
+A partir de la base de datos: Anexo 1. Violencia de genero e 
+intrafamiliar en Bucaramanga- Colombia  entre el año  2018 a 
+2021, encontrada en el entorno de aprendizaje, cada estudiante 
+deberá elegir una variable CUANTITATIVA DISCRETA distinta, 
+manifestarlo en el foro y resolver cada uno de los siguientes incisos: 
+a.Tabla de frecuencia datos no agrupados. Diseñar una tabla de 
+frecuencia para datos no agrupados de la variable elegida, a partir de 
+ella elaborar un diagrama de barras y un diagrama de líneas o de 
+puntos. 
+ 
+b. Medidas de tendencias central y de Posición. Para la variable 
+cuantitativa discreta elegida, cada estudiante deberá calcular las 
+medidas de tendencia central (media, mediana, moda), medidas de 
+posición: cuartiles (Q1, Q2, Q3), percentil 25 y 50, determinar el tipo de 
+asimetría y curtosis, interpretar los resultados, sacar conclusiones de los 
+parámetros hallados y asociarlos con la problemática “Identificación 
+de los principales factores que influyen en la violencia de género 
+e intrafamiliar en Colombia” 
+ 
+c. Medidas de Dispersión. Para la variable cuantitativa discreta elegida 
+calcular: Rango, varianza, desviación típica o estándar, coeficiente de 
+variación, posteriormente interpretar los resultados, sacar conclusiones 
+de los parámetros hallados y asociarlos con la de factores que influyen 
+en la problemática: “Identificación de los principales factores que 
+influyen en la violencia de género e intrafamiliar en Colombia” 
+Socializar los cálculos y la interpretación de los resultados en el Foro 
+de discusión - Unidad 2 - Paso 3 - Análisis de la Información. 
+ 
+
+
+--- Página 5 ---
+ 
+ 
+5 
+ 
+ 
+Actividad 4. Medidas Univariantes - Variable Continua 
+Para el desarrollo de esta actividad, es necesario que el estudiante 
+revise en el Entorno de Aprendizaje - contenidos y referentes 
+bibliográficos (Unidad 2), las siguientes referencias: 
+• Matus, R. (2010). Estadística. ed. México: Instituto Politécnico 
+Nacional. (pp. 2-8).  
+• Martínez, E. (2020) Estadística. ed. Santiago de los Caballeros: 
+Universidad Abierta para Adultos (UAPA). (pp. 126-220).  
+Descripción de la Actividad: 
+A partir de la base de datos: Anexo 1. Violencia de genero e 
+intrafamiliar en Bucaramanga- Colombia  entre el año  2018 a 
+2021encontrada en el entorno de aprendizaje, cada estudiante deberá 
+elegir una variable CUANTITATIVA CONTINUA distinta, manifestarlo 
+en el foro y resolver los siguientes incisos. 
+a. Tabla de frecuencia datos agrupados. Con la variable cuantitativa 
+continua elegida, diseñar una tabla de frecuencias para datos agrupados, 
+identificando rango, número de intervalos, amplitud y a partir de ella 
+elaborar un histograma de frecuencias y un polígono de frecuencias. 
+Finalmente, interpretar los resultados de la tabla, de los gráficos 
+estadísticos y asociarlos con la problemática: Identificación de los 
+principales factores que influyen en la violencia de género e 
+intrafamiliar en Colombia 
+ 
+b. Medidas de tendencias central y de Posición. Para la variable 
+cuantitativa continúa elegida, cada estudiante deberá calcular las 
+medidas de tendencia central (media, mediana, moda), medidas de 
+posición: cuartiles (Q1, Q2, Q3), percentil 50 y 70, determinar el tipo de 
+asimetría y curtosis e interpretar los resultados, sacar conclusiones de 
+los 
+parámetros 
+hallados 
+y 
+asociarlos 
+con 
+la 
+problemática: 
+“Identificación de los principales factores que influyen en la 
+violencia de género e intrafamiliar en Colombia”. 
+ 
+
+
+--- Página 6 ---
+ 
+ 
+6 
+ 
+c. Medidas de Dispersión. Para la variable cuantitativa continua elegida 
+calcular: Rango, varianza, desviación típica o estándar, coeficiente de 
+variación, posteriormente interpretar los resultados, sacar conclusiones 
+de los parámetros hallados y asociarlos con la problemática: 
+“Identificación de los principales factores que influyen en la 
+violencia de género e intrafamiliar en Colombia”. 
+Socializar los cálculos y la interpretación de los resultados en Foro de 
+discusión - Unidad 2 - Paso 3 - Análisis de la Información. 
+ 
+Actividad 5. Consolidación de la Información 
+Finalmente, cada estudiante deberá organizar todas y cada una de las 
+actividades en un informe, por medio de un archivo en formato PDF. 
+Dicho informe debe contener tablas, gráficos, cálculos e interpretación 
+de las medidas univariantes y demás elementos procesados, 
+permitiendo detallar la problemática estudiada: “Identificación de 
+los principales factores que influyen en la violencia de género e 
+intrafamiliar en Colombia” 
+El archivo se deberá subir al entorno de Evaluación Unidad 2 - Paso 3 
+- Análisis de la Información - Rúbrica de Evaluación y Entrega de la 
+actividad. 
+Para el desarrollo de la actividad tenga en cuenta que:  
+En el entorno de Información inicial debe: 
+Revisar en la agenda del curso las fechas de inicio y finalización para 
+la realización de la actividad, al igual que el tiempo que tiene el tutor 
+para calificarla. 
+En el entorno de Aprendizaje debe: 
+Descargar la guía de actividades que se encuentra en la carpeta Guía 
+de actividades y rúbrica de evaluación Unidad 2 - Paso 3 Análisis de la 
+información, posteriormente ingresar al foro de discusión - Unidad 2 
+Paso 3 Análisis de la información, interactuar con el Tutor y 
+compañeros y dejar en el foro la evidencia del desarrollo de cada una 
+de las actividades propuestas. 
+En el entorno de Evaluación debe: 
+Ingresar al recurso Unidad 2 - Paso 3 - Análisis de la Información - 
+Rúbrica de Evaluación y Entrega de la actividad y subir el archivo en 
+
+
+--- Página 7 ---
+ 
+ 
+7 
+ 
+formato PDF con el desarrollo de las actividades. El archivo se debe 
+nombrar de la siguiente manera:  
+Nombre completo del estudiante_Grupo_Paso 3. Análisis de la 
+Información. 
+Evidencias de trabajo independiente: 
+Las evidencias de trabajo independiente para entregar son: 
+Archivo en formato PDF, con normas APA el cual debe contener:  
+• Portada 
+• Introducción 
+• Justificación 
+• Objetivos 
+• Mapa mental 
+• Aplicación de las medidas estadísticas univariantes [Resumen 
+del artículo académico o científico] 
+• Cálculo e interpretación de las medidas univariantes de 
+tendencia central, medidas de dispersión, posición, asimetría y 
+curtosis para la variable discreta 
+• Cálculo e interpretación de las medidas univariantes de 
+tendencia central, medidas de dispersión, posición, asimetría y 
+curtosis para la variable continua 
+• Análisis e interpretación de la información obtenida 
+• Conclusiones 
+• Referencias Bibliográficas  
+Evidencias de trabajo grupal: 
+En esta actividad no se requieren evidencias de trabajo grupal.  
+ 
+2. Lineamientos generales para la elaboración de las evidencias 
+de aprendizaje a entregar.  
+Para evidencias elaboradas independientemente, tenga en cuenta las 
+siguientes orientaciones: 
+1. Cada estudiante debe participar con sus aportes, en el foro 
+donde se desarrolla la actividad. 
+2. Cada estudiante deberá retroalimentar como mínimo dos 
+aportes de sus compañeros. 
+
+
+--- Página 8 ---
+ 
+ 
+8 
+ 
+3. Intervenga en el foro de discusión aplicando las normas de 
+Netiqueta Virtual, evidenciando siempre respeto por las ideas 
+de sus compañeros y del cuerpo docente. 
+4. Antes de entregar el producto solicitado revise que cumpla con 
+todos los requerimientos que se señalaron en esta guía de 
+actividades y por parte del tutor en el foro de discusión. 
+5. No cometa fraudes, ni plagios ni actos que atenten contra el 
+normal desarrollo académico de las actividades.   
+Tenga en cuenta que todos los productos escritos individuales o 
+grupales deben cumplir con las normas de ortografía y con las 
+condiciones de presentación que se hayan definido.  
+En cuanto al uso de referencias considere que el producto de esta 
+actividad debe cumplir con las normas APA 
+En cualquier caso, cumpla con las normas de referenciación y evite el 
+plagio académico, para ello puede apoyarse revisando sus productos 
+escritos mediante la herramienta Turnitin que encuentra en el campus 
+virtual.  
+Considere que en el acuerdo 029 del 13 de diciembre de 2013, artículo 
+99, se considera como faltas que atentan contra el orden académico, 
+entre otras, las siguientes: literal e) “El plagiar, es decir, presentar 
+como de su propia autoría la totalidad o parte de una obra, trabajo, 
+documento o invención realizado por otra persona. Implica también el 
+uso de citas o referencias faltas, o proponer citad donde no haya 
+coincidencia entre ella y la referencia” y liberal f) “El reproducir, o 
+copiar con fines de lucro, materiales educativos o resultados de 
+productos de investigación, que cuentan con derechos intelectuales 
+reservados para la Universidad” 
+Las sanciones académicas a las que se enfrentará el estudiante son las 
+siguientes: 
+a. En los casos de fraude académico demostrado en el trabajo 
+académico o evaluación respectiva, la calificación que se 
+impondrá será de cero puntos sin perjuicio de la sanción 
+disciplinaria correspondiente. 
+b. En los casos relacionados con plagio demostrado en el trabajo 
+académico cualquiera sea su naturaleza, la calificación que se 
+
+
+--- Página 9 ---
+ 
+ 
+9 
+ 
+impondrá será de cero puntos, sin perjuicio de la sanción 
+disciplinaria correspondiente. 
+ 
+ 
+3. Formato de Rúbrica de evaluación 
+Tipo de actividad:  Independiente 
+Momento de la evaluación: Intermedio 
+La máxima puntuación posible es de 120 puntos 
+Primer 
+criterio de 
+evaluación:  
+Identifica las 
+medidas 
+estadísticas 
+univariantes. 
+Este 
+criterio 
+representa 
+10 puntos 
+del total de 
+120 puntos 
+de la 
+actividad.    
+Nivel alto:    El estudiante identifica las medidas 
+estadísticas univariantes, a través de la elaboración del 
+mapa mental, el cual presenta relaciones significativas 
+entre los conceptos.  
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 7 puntos y 10 puntos  
+Nivel Medio:  Aunque presenta el mapa mental, este no 
+permite identificar las medidas estadísticas Univariantes 
+y las relaciones entre los conceptos no son significativas.  
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 2 puntos y 6 puntos   
+Nivel bajo:  El estudiante no presenta el mapa mental.  
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 0 y 1 punto.  
+Segundo 
+criterio de 
+evaluación:  
+ 
+Interpreta 
+situaciones 
+académicas 
+donde se 
+emplean las 
+medidas 
+Nivel alto:    El estudiante eligió el artículo en segunda 
+lengua y realizó correctamente el resumen del artículo 
+académico o científico donde se emplea las medidas 
+estadísticas univariantes.  
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 10 puntos y 15 puntos  
+Nivel Medio:  Aunque realizó el resumen de artículo 
+académico o científico donde se emplea las medidas 
+estadísticas univariantes, este no contiene todos los 
+elementos solicitados (que sea en segunda lengua, 
+objetivos, resultados o conclusiones del artículo).  
+
+
+--- Página 10 ---
+ 
+ 
+10 
+ 
+estadísticas 
+univariantes. 
+ 
+Este criterio 
+representa 
+15 puntos 
+del total de 
+120 puntos 
+de la 
+actividad. 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 2 puntos y 9 puntos   
+Nivel bajo:  No realiza el resumen del artículo 
+académico o científico. 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 0 y 1 punto. 
+Tercer 
+criterio de 
+evaluación:  
+ 
+Organiza la 
+información a 
+través de la 
+tabla de 
+frecuencias 
+para datos 
+no 
+agrupados, y 
+los 
+diagramas 
+estadísticos. 
+Además, 
+aplica las 
+Medidas 
+Univariantes 
+de tendencia 
+central, 
+dispersión, 
+posición, 
+asimetría y 
+apuntamient
+o para la 
+variable 
+discreta. 
+Nivel alto:    El estudiante organiza correctamente la 
+información a través de la tabla de frecuencias para 
+datos no agrupados y realiza el diagrama de barras y de 
+líneas o de puntos. Además, aplica correctamente los 
+cálculos de las medidas de tendencia central, medidas de 
+dispersión, posición, asimetría y curtosis para la variable 
+discreta elegida y asocia los resultados   con la 
+problemática.  
+ 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 24 puntos y 35 puntos   
+Nivel Medio:   Aunque organizó correctamente la 
+información a través de la tabla de frecuencias para 
+datos no agrupados y realiza los diagramas, y/o aplicó 
+los cálculos de las medidas de tendencia central, 
+medidas de dispersión, posición, asimetría y curtosis 
+para la variable discreta, o faltan algunos parámetros o 
+no presentan relación con la problemática.  
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 2 puntos y 23 puntos   
+Nivel bajo:   El estudiante no realizó ni tabla de 
+frecuencias, ni diagramas estadísticos, ni tampoco los 
+cálculos de las medidas de tendencia central, medidas de 
+dispersión, posición, asimetría y curtosis para la variable 
+discreta.     
+
+
+--- Página 11 ---
+ 
+ 
+11 
+ 
+ 
+Este criterio 
+representa 
+35 puntos 
+del total de 
+120 puntos 
+de la 
+actividad 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 0 y 1 punto. 
+Cuarto 
+criterio de 
+evaluación:  
+  
+Organiza la 
+información a 
+través de la 
+tabla de 
+frecuencias 
+para datos 
+agrupados, y 
+los 
+diagramas 
+estadísticos. 
+Además, 
+aplica las 
+Medidas 
+Univariantes 
+de tendencia 
+central, 
+dispersión, 
+posición, 
+asimetría y 
+apuntamient
+o para la 
+variable 
+continua. 
+ 
+Este criterio 
+representa 
+Nivel alto:    El estudiante organiza correctamente la 
+información a través de la tabla de frecuencias para 
+datos agrupados y realiza el histograma y el polígono de 
+frecuencias. Además, aplica correctamente los cálculos 
+de las medidas de tendencia central, medidas de 
+dispersión, posición, asimetría y curtosis para la variable 
+continua y asocia los resultados   con la problemática.  
+ 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 29 puntos y 40 puntos   
+Nivel Medio:   Aunque organizó correctamente la 
+información a través de la tabla de frecuencias para 
+datos agrupados y realiza los diagramas, y/o aplicó los 
+cálculos de las medidas de tendencia central, medidas de 
+dispersión, posición, asimetría y curtosis para la variable 
+continua, o faltan algunos parámetros o no presentan 
+relación con la problemática.  
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 2 puntos y 28 puntos   
+Nivel bajo:   El estudiante no realizó ni tabla de 
+frecuencias, ni diagramas estadísticos, ni tampoco los 
+cálculos de las medidas de tendencia central, medidas de 
+dispersión, posición, asimetría y curtosis para la variable 
+continua.     
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 0 y 1 punto. 
+
+
+--- Página 12 ---
+ 
+ 
+12 
+ 
+40 puntos 
+del total de 
+120 puntos 
+de la 
+actividad    
+Quinto 
+criterio de 
+evaluación:  
+ 
+Consolida la 
+Información. 
+ 
+Este criterio 
+representa 
+10 puntos 
+del total de 
+120 puntos 
+de la 
+actividad. 
+Nivel alto: El estudiante consolida la información en un 
+informe descriptivo, el cual incluye los elementos 
+solicitados. 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 7 puntos y 10 puntos. 
+Nivel Medio: Aunque consolidó la información en un 
+informe descriptivo, el documento no contiene todos los 
+elementos solicitados 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 2 puntos y 6 puntos 
+Nivel bajo: El estudiante no entregó el informe 
+descriptivo 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 0 y 1 punto. 
+Sexto 
+criterio de 
+evaluación:  
+ 
+Participa en 
+el foro 
+oportuna y 
+constanteme
+nte 
+presentando 
+aportes 
+significativos 
+y pertinentes 
+para el 
+desarrollo de 
+la actividad 
+asignada. 
+Nivel alto: El estudiante reconoce las medidas 
+estadísticas univariantes a través del ingreso oportuno al 
+foro, presentando aportes significativos y pertinentes 
+para el desarrollo de la actividad asignada. 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 7 puntos y 10 puntos. 
+Nivel Medio: El estudiante presenta aportes en el foro; 
+sin embargo, no son significativos, o faltan elementos 
+que no permiten el reconocimiento de las medidas 
+estadísticas univariantes. 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 2 puntos y 6 puntos. 
+Nivel bajo: El estudiante no participó en el foro. 
+Si su trabajo se encuentra en este nivel puede 
+obtener entre 0 y 1 punto. 
+
+
+--- Página 13 ---
+ 
+ 
+13 
+ 
+ 
+Este criterio 
+representa 
+10 puntos 
+del total de 
+120 puntos 
+de la 
+actividad. 
+ 
+
+

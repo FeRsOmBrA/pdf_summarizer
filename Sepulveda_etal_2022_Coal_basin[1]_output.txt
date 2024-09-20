@@ -1,0 +1,1995 @@
+--- Página 1 ---
+International Journal of Coal Geology 249 (2022) 103882
+Available online 2 November 2021
+0166-5162/© 2021 Elsevier B.V. All rights reserved.
+Research Paper 
+Isotopic and hydrogeochemical evidence for biogenic gas in Cuervos 
+Formation coal beds, Cesar Rancheria Basin, Colombia 
+Victor M. Sepulveda-Castaneda a,*, Joan S. Esterle a, Suzanne D. Golding a, Sebastian Gonzalez b 
+a School of Earth and Environmental Sciences, The University of Queensland, Brisbane, Australia 
+b Centre for Natural Gas, The University of Queensland, Brisbane, Australia   
+A R T I C L E  I N F O   
+Keywords: 
+Coal bed methane (CBM) 
+Cesar Rancheria 
+Cuervos Formation 
+Stable isotope geochemistry 
+Biogenic 
+A B S T R A C T   
+Coal bed methane (CBM) has recently been produced from sub-bituminous to high volatile bituminous low rank 
+coals (vitrinite reflectance 0.39 to 0.53%) from the Paleocene Cuervos Formation in the Cesar Sub-basin, 
+Colombia. Understanding CBM gas origin is vital for designing exploration and production strategies, in order 
+to target either shallow economic accumulations of microbial gas or deeper and thermally mature coal seams. In 
+this context, this study aims to determine whether thermogenic gas, biogenic gas, or a mixture of both gas types 
+have contributed to gas yield in the Cesar Sub-basin; it also discusses the relationship between gas origin and 
+tectonics. For the first time, co-produced waters and gas samples from CBM multi-seam production wells and 
+shallow aquifer water-wells were collected in the Boqueron compartment (Cesar Sub-basin) and were analysed 
+via stable isotope composition and molecular geochemistry. Structural compartmentalisation in the Sub-basin as 
+a result of interplate shortening during the Mid-Paleogene has resulted in slightly different coal ranks, saturation, 
+and gas contents between compartments of the Paleocene Cuervos Formation. This event could have interrupted 
+early thermogenesis and allowed the introduction of meteoric waters carrying bacteria consortia responsible for 
+biogenesis. 
+The produced waters from the CBM wells were HCO3 > Na+ > Cl−type, and ranged in TDS (Total dissolved 
+solids) from 2268 to 6602 mg/L (avg. 3887 mg/L). Recently revised genetic diagrams of δ13C-CH4 versus δ2H- 
+CH4 and additional parameters, such as gas dryness ratio and water chemistry, corroborated biogenesis as the 
+main gas origin. Carbon isotopic differences between carbon dioxide and methane (Δ13CH2O–CH4), as well as 
+those of hydrogen isotopes in water and methane (Δ2HH2O–CH4), also indicated a typical microbial CO2 reduction 
+pathway. The positive carbon isotope composition of dissolved inorganic carbon (δ13C-DIC) not only showed a 
+clear differentiation between waters from CBM wells and those from shallow aquifers, but also confirmed the 
+occurrence of methanogenesis when paired with high alkalinity. In addition, the water quality analysis showed 
+increasing sodium and bicarbonate concentrations with depth, which is typical of CBM production basins. 
+Although biogenic gas was identified, tectonic settings do not seem to explain gas origin occurrence, since 
+secondary biogenesis was expected in an uplifted basin such as Cesar Rancheria. Isotopic data was not decisive in 
+differentiating primary versus secondary biogenesis, since the gas isotope compositions plot close to the 
+boundary between the primary and secondary biogenic gas fields. Further studies on isotopic chemistry are 
+required to refine this interpretation and confirm gas generation in the other two compartments.   
+1. Introduction 
+Successful coal bed methane (CBM) exploration strategies require an 
+understanding of gas origin (Hamilton et al., 2020; Mastalerz and 
+Drobniak, 2020; Rice, 1993). Microbial targets are generally found at 
+shallow depths, in connection with hydrodynamic systems that bring 
+microbes into the coal beds. This can result in higher gas saturation due 
+to microbial enhancement. Thermogenic accumulations tend to occur in 
+deeper coal beds at higher ranks, typically with higher gas content and 
+less permeable coal. Gases with mixed origins may present a number of 
+challenges, including over or under pressures and variable CO2 content, 
+among others (Scott et al., 1994). 
+Biogenic methane is formed in two ways. Primary biogenic gas is 
+produced during the early stages of coalification through the conversion 
+* Corresponding author at: The University of Queensland, Sir James Foots Building (47A), Level 8, St Lucia, QLD 4072, Australia. 
+E-mail address: v.sepulvedac@uq.net.au (V.M. Sepulveda-Castaneda).  
+Contents lists available at ScienceDirect 
+International Journal of Coal Geology 
+journal homepage: www.elsevier.com/locate/coal 
+https://doi.org/10.1016/j.coal.2021.103882 
+Received 1 March 2021; Received in revised form 27 October 2021; Accepted 31 October 2021   
+
+
+--- Página 2 ---
+International Journal of Coal Geology 249 (2022) 103882
+2
+of organic matter by microbial fermentative processes. This typically 
+occurs at shallow depths and lower temperatures (Pramod et al., 2014). 
+Secondary biogenic generation, on the other hand, requires shallow 
+coals in which reservoir temperature is low (generally <56 ◦C), as well 
+as the presence of water carrying methanogens, and generally occurs 
+after uplift cycles (Pramod et al., 2014). Thermogenic gas origin in­
+volves the thermal decomposition of coal above 100 ◦C (Gao et al., 
+2014), generally at greater depths and higher coal ranks (>0.7% Ro) 
+(Scott et al., 1994). A mixture of both biogenic and thermogenic gas 
+origins has been reported in many basins, including the Illinois Basin, 
+USA (Moore et al., 2018), the Raniganj Basin, India (Ghosh et al., 2018), 
+the Surat and Bowen basins, Australia (Baublys et al., 2015; Boreham 
+et al., 1998; Hamilton et al., 2020; Kinnon et al., 2010), and the Powder 
+River Basin, USA (Quillinan and Frost, 2014). 
+Geochemical systematics for the interpretation of gas origin combine 
+genetic isotopic diagrams, gas molecular composition, and water 
+hydrogeochemistry. In conjunction with geological data, well comple­
+tion, and production data, these systematics provide common tools for 
+the identification of thermal and microbial gas origins (Golding et al., 
+2013; Hamilton et al., 2020; Hamilton et al., 2015; Milkov and Etiope, 
+2018; Moore et al., 2018; Vinson et al., 2017). 
+The Cesar Rancheria Basin (CRB), situated in the north Caribbean 
+region of Colombia, is one of the most productive thermal coal basins in 
+South America and a potential target for CBM exploration and devel­
+opment. This basin has been geographically and geologically divided 
+into two Sub-basins: the north-east Rancheria Sub-basin, and the south- 
+west Cesar Sub-basin (ANH, 2011) (Fig. 1). Previous studies have 
+identified CBM potential in this basin; however, there has been insuffi­
+cient research on the origin of co-produced water and gases, methano­
+genic pathways, and controlling factors of gas content. Two possible 
+scenarios for CBM gas occurrence in the basin have been hypothesised. 
+First, the hypothesis of thermogenesis for the Mid Paleocene to the Late 
+Paleocene Cuervos Formation in the Cesar Sub-basin (CSB) is based on 
+its sufficient burial depth, temperature, and pressure. In this regard, 
+recent geochemical studies in the Rancheria Sub-basin have shown that 
+the Cerrejon Formation (stratigraphically equivalent to Cuervos For­
+mation in CSB), despite having mixed organic matter type II/III kerogen, 
+has not reached the oil generation window, thus limiting the confir­
+mation of thermally generated gas (Cruz-Ceballos et al., 2020). Second, 
+the low coal rank opens the possibility of secondary biogenesis resulting 
+from the interaction of meteoric waters with the coal-bearing strata. 
+This study aimed to determine whether the gas yield in the Cesar 
+Sub-basin was thermogenic and/or biogenic in origin. To do so, it ana­
+lysed stable isotopes of hydrogen, carbon and oxygen in water, methane, 
+Fig. 1. A) Cesar Rancheria Basin location, showing study field (red square) and approximate fault locations. BSMF = Bucaramanga-Santa Martha transpressional 
+sinistral strike-slip system; OCA = right-lateral strike-slip system; CF = Cerrejon thrust fault; SM = Sierra Nevada de Santa Marta Range; SP = Serrania del Perija 
+Range; RSB = Rancheria Sub-basin; CSB = Cesar Sub-basin; LMVB = Lower Magdalena Basin. B) Structural map of La Loma Syncline Base of Cuervos Fm showing 
+compartmentalisation divided by reverse thrust faults. C) Generalized stratigraphic column Cesar Sub-basin. Modified from (ANH, 2011). D) NW–SE cross-section 
+showing the three synclines in the study field. Source (Drummond Ltd, 2012). (For interpretation of the references to colour in this figure legend, the reader is 
+referred to the web version of this article.) 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 3 ---
+International Journal of Coal Geology 249 (2022) 103882
+3
+and CO2 (δ2H-H2O, δ18O-H2O, δ13C-CO2, δ2H-CH4, δ13C-CH4) and δ13C- 
+DIC (dissolved inorganic carbon), along with paired hydrogeochemical 
+data from CBM pilot production wells in the CRB. Existing datasets of 
+coal-bearing stratigraphy, gas desorption, and coal properties were also 
+analysed to provide context for the geochemical data. The results of this 
+study have significant implications for gas production performance, and 
+for environmental issues associated with gas production in Colombia; 
+for instance, in the excessive dewatering time (e.g. Quillinan and Frost, 
+2014), and connectivity of hydrocarbons with adjacent aquifers (e.g. 
+Charlotte et al., 2015). In the following sections, we will outline the 
+geological settings and general gas content domains, followed by the 
+isotopic evidence for gas and water origins. 
+2. Geological and hydrogeological setting 
+The Cesar Rancheria Basin (CRB) is an N30◦E oriented intermontane 
+basin located in the north-eastern region of Colombia, between the Si­
+erra Nevada de Santa Marta massif (SM) to the north and the Serrania de 
+Perija (SP) range to the south, in a geographic region known as the La 
+Loma plains (Fig. 1). According to Cediel and Shaw (2019), Paleocene 
+fluvial-lacustrine sediments, shallow marine sediments, and coarse 
+fluvial sediments were deposited along with the early Eocene inversion 
+of the SP range that converted the CRB into an incipient foreland basin. 
+Two periods of uplifting have been recognised throughout the basin, 
+resulting in the absence of sections for the Sub Eocene to Sub Oligocene 
+and late Miocene periods. This has left unconformities in the strati­
+graphic record. Structurally, the study field known regionally as the La 
+Loma Syncline is divided into four main synclines or structural com­
+partments: Boqueron, Loma, Chimilla, and the Descanso. These com­
+partments are separated by basement-involved south-east dipping 
+reverse faults, presumably resulting from the Caribbean–South Amer­
+ican plate interaction (Cediel and Shaw, 2019; Sanchez and Mann, 
+2015) (Fig. 1B). 
+Coal beds in the basin range in depth from 53 m to 538 m when 
+intersected in exploratory and producing wells in the Boqueron 
+compartment, with a maximum depth of 1600 m in the axis of the La 
+Loma Syncline. According to seismic data interpretations, the Mid 
+Paleocene to the Late Paleocene Cuervos Formation in the Cesar Sub- 
+basin was deposited in a transitional contact with the underlying 
+Barco Formation (Fig. 1C). It contains almost 80 coal beds (Drummond 
+Ltd, 2012) that spread across the sedimentary unit in the basin (Fig. 1). 
+Hydrogeologically, the Cesar Rancheria Basin belongs to the Atlantic 
+coastal shed province. This province is divided into four sub-provinces, 
+of which the Cesar plains are the sub-province for the study field. 
+Hydrogeological units of the study area have been classified into two 
+types. The first consists of continuous aquifers of limited regional 
+extension (Qlla) and local extension (Qal) with unconfined, semi- 
+confined, and confined types (Fig. 4). The second type of aquifer con­
+sists of non-continuous confined to semi-confined aquifers of limited 
+regional extension (Tpb) (Angel Martinez and Huguett Granados, 1995). 
+Flow direction in the study field follows a general south-westward di­
+rection flux following the regional dip direction of the Tertiary forma­
+tions (Fig. 4). 
+3. Previous research on water and gas chemistry and gas origin 
+in the Cesar Sub-basin 
+Since the early 1990s, interest in CBM has motivated research (pri­
+marily government studies) to address gas resources in twelve coal ba­
+sins in Colombia. Arguably, the most significant studies of CBM water 
+and gas chemistry were carried out in 2013 and 2015 by the National 
+Hydrocarbons Agency (Agencia Nacional de Hidrocarburos) (ANH). 
+These studies were not able to apply isotopic analysis. The gas origin was 
+assumed to be biogenic, based on the presence of gas and the low rank of 
+coal samples collected from surface; however, it was also hypothesised 
+to have migrated from deeper, more mature source rocks (Agencia 
+Nacional de Hidrocarburos, 2013). To the authors’ knowledge, this 
+study is the first attempt in Colombia to analyse water and gas from a 
+CBM-producing field to test the theory of thermogenic/biogenic CBM 
+gas origin and methanogenic processes. 
+3.1. Coal composition and gas content 
+Typically, the overall ash content of the CRB coals on a dry basis 
+ranges from 0.9 to 16% with a mean of 4.0%, whereas total moisture 
+varies between 8 and 21%. Volatile matter values range from 37 to 49% 
+with values similar to those presented by Glencore International (2011) 
+(Table 1, Fig. 2). The predominant maceral group in the study field is 
+vitrinite, ranging from 57 to 88% with a mean of 74.96%, followed by 
+inertinite (7–40%, mean 21.9%) and liptinite (0.8–4.5%, mean 2.02%). 
+Coal rank varies with depth within the compartments from sub- 
+bituminous to high volatile bituminous C, as per calorific data in the 
+study field (Fig. 2). 
+Fig. 2B presents calorific value differentiated for each compartment, 
+with the minimum (13,276 BTU/lbm), mean (13,818 BTU/lbm) and 
+maximum (14,242 BTU/lbm) values, from samples collected up to 
+depths of 538 m. This graph shows a higher average calorific value for 
+the Boqueron compartment and lower values for Descanso and La Loma. 
+Data from Descanso presents a broader distribution, which indicates that 
+this compartment has significant variability of coal maturation. 
+Desorbed gas content from sixteen exploratory wells across three 
+compartments in the study field showed relatively low to high gas 
+content from 57 m to 538 m depth. Medium to high gas content was 
+identified after 200 m depth in the Boqueron and La Loma compart­
+ments, whereas in the Descanso compartment, CBM concentrations are 
+relatively low in the upper coal-bearing strata with an increase in des­
+orbed gas after approximately 350 m (Fig. 3). 
+4. Sampling and methods 
+In order to determine the origins of the gas and water in the study 
+Table 1 
+Summary table of proximate data (air dry basis) per compartment across the 
+study field and available literature for CRB presented as sample amount, mini­
+mum, maximum, mean, and standard deviation.  
+Compartment 
+Total 
+moisture % 
+Dry 
+ash % 
+Volatile 
+matter % 
+Total 
+sulphur % 
+Fixed 
+carbon % 
+Boqueron Compartment n = 103 
+Min 
+8.3 
+1.1 
+37 
+0.3 
+32.6 
+Max 
+14.2 
+16.7 
+49.5 
+4.3 
+48.4 
+mean 
+10.8 
+3.9 
+42.2 
+0.8 
+43.1 
+Std. dev 
+1.3 
+2.6 
+1.9 
+0.7 
+3.7  
+Descanso Compartment n = 90 
+Min 
+9.3 
+1 
+29.6 
+0.3 
+27.7 
+Max 
+24.5 
+32.3 
+46.6 
+2.6 
+47.9 
+mean 
+14.9 
+4.1 
+41.4 
+0.7 
+39.6 
+Std. dev 
+3.2 
+4 
+2.5 
+0.5 
+3.8  
+Loma Compartment n = 18 
+Min 
+11.1 
+1.6 
+37.5 
+0.2 
+36.2 
+Max 
+14.3 
+9.8 
+45.5 
+2.6 
+44.8 
+mean 
+12.5 
+4 
+42.8 
+0.8 
+40.8 
+Std. dev 
+0.9 
+2.2 
+1.9 
+0.7 
+3.6  
+(Glencore International, 2011) n = 31 
+Min 
+12 
+3 
+32.3 
+0.4 
+36.5 
+max 
+14.9 
+17.7 
+37.1 
+3.7 
+47.8 
+mean 
+13.4 
+6.9 
+35.6 
+1.1 
+44.1 
+Std. dev 
+0.9 
+3.2 
+1.2 
+0.8 
+2.5  
+(Guo et al., 2018) Calenturitas and La Jagua Mines n = 36 
+Min 
+– 
+0.4 
+35.9 
+0.2 
+– 
+max 
+– 
+24 
+55.4 
+1.7 
+– 
+mean 
+– 
+5 
+44.6 
+0.6 
+– 
+Std. dev 
+– 
+6.8 
+3.8 
+0.3 
+–  
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 4 ---
+International Journal of Coal Geology 249 (2022) 103882
+4
+field within the Cesar Sub-basin, a sampling campaign was conducted, 
+collecting gas and water samples from 16 multi-seam completion wells 
+(from 505 m to 802 m max. depth) and 5 samples from piezometers (up 
+to 200 m depth) for isotopic analysis, all within the Boqueron 
+compartment (Figs. 1, 4, and Table 2). Throughout this study, we will 
+refer to “CBM wells” for co-produced waters, and “shallow wells” or 
+“piezometers” for non-CBM water. At the time of field data collection 
+(July 2019), there were no boreholes available for underground water/ 
+gas sampling in the La Loma and Descanso compartments. Therefore, the 
+present study focuses on the southern part of the CSB. This study did not 
+include samples from the Rancheria Sub-basin. 
+Groundwater samples were collected in 60 mL high density poly­
+ethylene (HDPE) plastic bottles after rinsing them three times with 
+formation water. The filling method for samples involved leaving suf­
+ficient space to allow for freezing during air cargo shipment. After 
+collection, samples remained in a cool shipping container until arrival at 
+the laboratory. Gas samples were collected directly from the wellhead in 
+110 mL capacity isotubes. Stable isotope analyses were undertaken by 
+the Stable Isotope Geochemistry Laboratory (SIGL) of the School of 
+Earth and Environmental Sciences at the University of Queensland, 
+Australia. 
+Water and gas isotopic analysis included δ13C-DIC‰ (dissolved 
+inorganic carbon isotopes), δ18O-H2O‰ and δ2H-H2O‰ (water iso­
+topes), and δ13C-CH4‰, δ2H-CH4‰, and δ13C-CO2‰ (gas isotopes). 
+Units per mil on the scales of Vienna Pee Dee Belemnite (VPDB‰ and 
+VSMOW‰) were normalised to the standard values proposed by Craig 
+(1961) and updated by the International Atomic Energy Agency (IAEA). 
+A Thermo Delta V with Gasbench was used for δ13C-DIC analysis, and 
+an Isoprime Dual Inlet IRMS for δ2H-H2O and δ18O-H2O analyses. δ13C- 
+DIC values were normalised to the VPDB scale following a 3-point 
+normalisation against international standards NBS18, NBS19, and 
+USGS44, with a precision of ±0.1‰ at 1 σ. δ2H-H2O and δ18O-H2O 
+values were normalised to the VSMOW scale via a 3-point normalisation 
+using international standards USGS45, USGS46, and W64444, with a 
+precision of ±0.1‰ for δ18O and ± 2‰ for δ2H at 1 σ. 
+An Isoprime GC-c-IRMS was used for the determination of δ13C-CH4, 
+δ2H-CH4, and δ13C-CO2. Each sample was analysed in duplicate with two 
+injections per analytical cycle. Calibration was via 3-point normalisation 
+using a combination of methane, carbon dioxide and hydrogen stan­
+dards with a precision of ±0.1‰ for δ13C-CH4 and δ13C-CO2 at 1 σ, and 
+± 3‰ for δ2H-CH4. The international standards used for the calibrations 
+were OZTECH hydrogen (−125, −228, −365‰) and CO2 (−3.6, 
+Fig. 2. A) Maceral composition Cuervos Formation for Boqueron wells (red triangle), Descanso wells (blue cross), and La Loma wells (green circle) within La Loma 
+field. B) Boxplots for calorific value from Boqueron, El Descanso and La Loma Compartments. Black dots represent calorific value for all samples with a random (x) 
+position. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.) 
+Fig. 3. Desorbed gas content study field m3/t d.a.f. (see compartment location Fig. 1). Data for this graph was provided by Drummond Ltd. Vertical axis numerical 
+value is shown in qualitative ranges due to confidentiality. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 5 ---
+International Journal of Coal Geology 249 (2022) 103882
+5
+−40.7‰) in combination with laboratory methane and carbon dioxide 
+standards, with additional standards analysed as unknowns. Additional 
+details on analytical equipment, procedure and calibration can be found 
+in Baublys et al. (2015). Water quality analysis for physicochemical 
+composition was completed in a certified laboratory in Colombia. 
+Sampling methodology followed the approach described by Baublys 
+et al. (2015) and Kinnon et al. (2010) for both the water and gas sam­
+ples, and was adapted for the research data-management plan created 
+for this study. 
+5. Gas origin determination methods 
+Different techniques have been proposed to determine gas origin, 
+including coal rank and vitrinite reflectance value (Claypool and Kaplan, 
+1974, in Pramod et al., 2014) and gas molecular composition ratios 
+(Golding et al., 2013; Pramod et al., 2014). However, the most widely 
+used method applies stable isotopic ratios. Studies by Schoell (1980), 
+Whiticar (1999), and Whiticar et al. (1986) have analysed methane from 
+a variety of sedimentary environments. These studies compared the 
+stable carbon and hydrogen isotopes in methane to create diagrams that 
+distinguish δ13C-CH4 and δ2H-CH4 values of methane from different 
+sources, and to differentiate between methanogenic pathways. There are 
+alternative methods to test gas origin of CBM gases, including the rela­
+tionship between carbon isotopes of methane and carbon dioxide, and 
+hydrogen isotopes of methane and water (Golding et al., 2013; Milkov 
+and Etiope, 2018). In addition, CO2 produced during the stages of the 
+Fig. 4. A) Structural map contours (m), showing sampling well location in Cesar Sub-basin, Boqueron compartment. B) Conceptual model in Boqueron compartment 
+showing south-west dipping, CBM and piezometer wells projected to the section, and stiff-type diagrams for eastern and western CBM wells. Not to scale. (Map 
+coordinates restricted due to confidentiality). 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 6 ---
+International Journal of Coal Geology 249 (2022) 103882
+6
+coalification process is variable in amount, while the isotopic compo­
+sition of δ13C-CO2 varies in response to a variety of sources and meth­
+anogenic pathways. Such variability, when paired with δ13C-CH4 values, 
+is described as the carbon isotope fractionation (αCO2-CH4 and αCH4- 
+H2O), and may allow differentiation between CO2 reduction and methyl- 
+type fermentation systems (Flores et al., 2008; Golding et al., 2013). 
+Oxygen and hydrogen isotopes of co-produced waters from CBM 
+wells are assessed against the Global Meteoric Waterline (GMWL), 
+which refers to the best fit of the relationship between hydrogen and 
+oxygen isotope ratios (δ2HH2O = 8.13 * δ18OH2O + 10.8) in terrestrial 
+waters (Craig, 1961). Several authors (Golding et al., 2013; Pantano, 
+2012; Rice et al., 2008; Riese et al., 2005) have identified that waters co- 
+produced from coal beds were typically enriched in 2H and depleted in 
+18O relative to the GMWL (i.e. plotting above and to the left of the 
+GMWL defined by Craig (1961)). Isotope studies in coal beds in the 
+Walloon coals in Australia have linked waters with less negative δ2H- 
+H2O and δ18O to high water production at shallow depths, whereas more 
+negative δ2H-H2O and δ18O-H2O was correlated with high gas yield and 
+lower dewatering (Kinnon et al., 2010). As such, this study applies a 
+variety of determination methods involving stable isotope ratio analysis 
+and hydrogeochemistry to investigate the extent of biogenesis/ther­
+mogenesis in the CSB. Accordingly, the analytical approach to establish 
+gas origin and generation pathways in the present study is firmly 
+grounded in the relevant literature (Clayton, 1998; Golding et al., 2013; 
+Hamilton et al., 2020; Milkov and Etiope, 2018; Vinson et al., 2017; 
+Whiticar, 1999). 
+6. Results and discussion 
+6.1. Water chemistry 
+Analysed water and gas samples included in this study were collected 
+exclusively from the Boqueron compartment (Figs. 1, 4), because at the 
+time of sampling (August 2019) there were no active production wells in 
+the other two areas. CBM pilot wells in this area intersect and drain 
+multiple seams over a depth range of 30 m to 600 m. Elevated coal rank 
+and highest gas contents are found in this location in comparison with 
+the other two structurally divided compartments. The main water 
+quality parameters and composition of collected waters are summarised 
+in Table 2, including pH, cations, anions, conductivity, total dissolved 
+solids, total alkalinity, and ionic balance. CBM production waters from 
+the Cuervos Formation are highly alkaline, as expected for deeper 
+groundwaters (up to 600 m). Shallow groundwaters typically exhibit 
+lower levels of alkalinity, as a result of chemical dissolution and solution 
+reactions affecting recharge water along the flow path (Baublys et al., 
+2015; Voast and Montana, 2003). 
+The pH of the CBM wells ranges from 8.14 to 8.46 with an average of 
+8.37, whereas water from the shallow groundwater wells exhibits 
+anomalously high values with an average pH of 9.28 and a maximum of 
+11.30. Extremely alkaline groundwater rarely occurs in nature, and is 
+typically found only in thermal springs, ultramafic terrains, or hyper­
+saline evaporative lakes (Roadcap et al., 2005). Human activities such as 
+industrial waste could potentially produce pH values above 10 units 
+(Roadcap et al., 2005). Agencia Nacional de Hidrocarburos-Colciencias 
+(2015) have analysed physicochemical parameters of 14 surface samples 
+from coalmines in the Cesar Sub-basin, resulting in pH values between 
+6.91 and 8.31. Therefore, there is no additional evidence to support such 
+high pH values, and they may be erroneous. 
+Total average alkalinity for CBM wells is 2349.35 (SD = 874.5), 
+compared to 173.88 mg/L (SD = 240) for shallow wells (>50 m) (Fig. 5). 
+Across the study area, major ions for CBM waters are dominated by Na+
+with concentrations between 678 and 2200 mg/L, followed by HCO3
+−
+(1260–3747 mg/L) and Cl−(57–973 mg/L). Shallow waters (eastern 
+CBM wells Fig. 4) exhibit the same major ions in lower concentrations, 
+apart from a higher Ca2+ value. SO4
+2−, Mg2+, Ca2+, and K+ have lower 
+concentrations, near the detection limits for shallow piezometers. 
+Table 2 
+Water chemistry data for the Boqueron Compartment.  
+Sample 
+PH 
+EC (μS/cm) 
+TDS 
+Total alkalinity 
+Concentrations of major ions (mg/L) 
+Ca2+
+Mg2+
+Na+
+Cl−
+SO4
+2−
+HCO3 
+K+
+Fe2+
+Al3+
+F−
+SAR 
+Water type 
+CAPORO-21 
+8.46 
+4620.00 
+3692.00 
+2019.10 
+2.41 
+<0.78 
+1153.69 
+491.40 
+<11.00 
+1842.63 
+12.53 
+0.14 
+<0.08 
+<0.98 
+164.93 
+HCO3 -Na-Cl 
+CP-1701 
+8.14 
+2800.00 
+2268.00 
+1339.15 
+1.19 
+<0.78 
+678.40 
+231.25 
+<11.00 
+1266.48 
+4.98 
+0.61 
+<0.08 
+<0.98 
+118.94 
+HCO3 -Na-Cl 
+CP-1702 
+8.41 
+3530.00 
+2941.00 
+1650.58 
+21.73 
+6.33 
+1003.00 
+233.66 
+<11.00 
+1572.72 
+13.83 
+0.57 
+<0.08 
+<0.98 
+48.68 
+HCO3 -Na-Cl 
+CP-1703 
+8.31 
+3510.00 
+2460.00 
+1391.05 
+1.33 
+<0.78 
+808.19 
+240.88 
+<11.00 
+1328.77 
+5.50 
+0.38 
+<0.08 
+<0.98 
+137.83 
+HCO3 -Na-Cl 
+CP-1704 
+8.35 
+3660.00 
+3045.00 
+1930.87 
+1.53 
+<0.78 
+870.97 
+221.61 
+<11.00 
+1842.63 
+6.95 
+0.25 
+<0.08 
+<0.98 
+142.62 
+HCO3 -Na-Cl 
+CP-1705 
+8.44 
+5800.00 
+3451.00 
+2128.11 
+3.71 
+<0.78 
+1008.37 
+286.65 
+<11.00 
+2013.91 
+11.05 
+0.31 
+<0.08 
+<0.98 
+124.25 
+HCO3 -Na-Cl 
+CP-1706 
+8.41 
+6450.00 
+3272.00 
+1894.53 
+2.54 
+<0.78 
+984.46 
+368.55 
+<11.00 
+1769.96 
+10.10 
+0.22 
+<0.08 
+<0.98 
+138.50 
+HCO3 -Na-Cl 
+CP-1707 
+8.37 
+7310.00 
+6285.00 
+3882.49 
+3.16 
+<0.78 
+2014.18 
+361.32 
+<11.00 
+3747.54 
+11.20 
+0.24 
+<0.08 
+<0.98 
+262.85 
+HCO3 -Na-Cl 
+CP-1708 
+8.22 
+8670.00 
+6602.00 
+3404.97 
+2.16 
+<0.78 
+2203.07 
+973.17 
+<11.00 
+3301.16 
+6.03 
+0.56 
+<0.08 
+<0.98 
+326.63 
+HCO3 -Na-Cl 
+CP-1709 
+8.44 
+6970.00 
+4716.00 
+2958.59 
+3.13 
+<0.78 
+1396.26 
+334.83 
+<11.00 
+2792.49 
+11.17 
+0.13 
+<0.08 
+<0.98 
+183.04 
+HCO3 -Na-Cl 
+CP-1710 
+8.40 
+7070.00 
+6044.00 
+3638.54 
+4.14 
+<0.78 
+2168.72 
+208.12 
+<11.00 
+3513.97 
+11.46 
+0.41 
+<0.08 
+<0.98 
+252.46 
+HCO3 -Na-Cl 
+CP-1711 
+8.46 
+7050.00 
+6182.00 
+3934.40 
+3.68 
+<0.78 
+2014.37 
+207.16 
+<11.00 
+3737.16 
+9.68 
+0.68 
+<0.08 
+<0.98 
+248.71 
+HCO3 -Na-Cl 
+CP-1712 
+8.35 
+3730.00 
+2409.00 
+1432.58 
+1.62 
+<0.78 
+761.14 
+195.12 
+<11.00 
+1354.72 
+6.40 
+0.09 
+<0.08 
+<0.98 
+122.90 
+HCO3 -Na-Cl 
+CP-1713 
+8.46 
+5330.00 
+3279.00 
+2159.25 
+2.95 
+<0.78 
+976.68 
+118.03 
+<11.00 
+1946.44 
+9.95 
+0.13 
+<0.08 
+<0.98 
+130.43 
+HCO3 -Na-Cl 
+CP-1714 
+8.31 
+3520.00 
+2784.00 
+1915.29 
+1.43 
+<0.78 
+783.71 
+63.59 
+<11.00 
+1837.44 
+7.09 
+0.33 
+<0.08 
+<0.98 
+131.15 
+HCO3 -Na-Cl 
+CP-1715 
+8.35 
+3720.00 
+2764.00 
+1910.10 
+1.93 
+<0.78 
+774.59 
+57.81 
+<11.00 
+1744.01 
+6.72 
+0.09 
+<0.08 
+<0.98 
+119.07 
+HCO3 -Na-Cl 
+PZ-052 
+6.58 
+182.00 
+105.00 
+49.31 
+21.91 
+<0.78 
+7.30 
+5.49 
+<13.05 
+49.31 
+6.55 
+0.13 
+0.29 
+<0.98 
+0.42 
+HCO3-Ca-Na 
+PZ-053 
+11.30 
+112.00 
+72.00 
+31.14 
+14.76 
+<0.78 
+7.88 
+4.63 
+<11.00 
+10.00 
+1.30 
+<0.09 
+<1.02 
+<0.98 
+0.54 
+HCO3-Ca-Na 
+PZ-054 
+11.14 
+241.00 
+124.00 
+57.10 
+4.22 
+<0.78 
+22.38 
+7.13 
+<11.00 
+10.00 
+20.24 
+0.78 
+3.68 
+<0.98 
+2.62 
+Na-HCO3-Ca 
+PZ82-HW07 
+7.32 
+208.00 
+138.00 
+77.86 
+9.78 
+2.42 
+25.40 
+5.73 
+<11.00 
+77.86 
+4.69 
+0.39 
+0.79 
+<0.98 
+1.88 
+HCO3-Na- Ca 
+PZ83-HW08 
+10.07 
+2220.00 
+1685.00 
+654.00 
+1.50 
+<0.78 
+486.47 
+106.95 
+427.09 
+477.53 
+7.40 
+0.16 
+0.56 
+<0.98 
+80.23 
+Na-HCO3-Cl 
+EC = electric conductivity; TDS = total dissolved solids; SAR = sodium adsorption ratio (SAR = ([Na+]/(([Ca2+] + [Mg2+])/2)0.5). Sample names starting with CP are CBM wells, and samples starting with PZ are 
+piezometers. See Figs. 1 and 4B for well locations. Limits of Quantification: TDS:10; Alkalinity:10; Ca2+: 10; Mg2+: 0.78; Na+:0.90; Cl−: 4.0; SO4
+2−: 11.0; HCO3:10; K+;0.95; Fe2+: 0.09; Al3+: 0.08, F−: 0.98. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 7 ---
+International Journal of Coal Geology 249 (2022) 103882
+7
+Fig. 5. Scholler plot including main ions for CBM (a) and shallow waters (b). CBM wells display a clear HCO3 > Na > Cl association, with low Ca, Mg, and SO4
+2−
+values for all data. Each line corresponds to a single well. 
+Fig. 6. Piper trilinear diagram of major ion compounds coded by CBM wells and shallower waters. Units % of milliequivalents per litre. Bottom left is a ternary plot 
+of the cations; bottom right is a ternary plot of the anions; the top is a diamond plot of a projection from the other two plots. Interpretation legend modified from 
+(Trilinear Diagram Interpretation, 2019). Cations triangle on the left-hand side depicts CBM samples stacking due to high sodium–potassium concentrations for CBM 
+water samples. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 8 ---
+International Journal of Coal Geology 249 (2022) 103882
+8
+Relative distribution of major cations and anions is shown in the 
+Scholler and Piper diagrams in Figs. 5 and 6 respectively. These signa­
+tures indicate that the water type is HCO3
+−> Na+ > Cl−for the CBM 
+wells, while most of the shallow groundwaters display hydro­
+geochemical facies HCO3
+−- Ca2
++ to HCO3
+−- Na+. Concentrations of 
+Fe2
++, F−and Al+3 (avg. 0.32, 0.98, and 0.36 mg/L, respectively) are very 
+low in the CBM wells, with higher values in the shallow groundwater. 
+Total alkalinity as bicarbonate values in the study field ranges from 
+31.14 to 3934 mg/L with an average value of 1910 mg/L. Fig. 7 shows 
+Spearman’s rank pairwise correlations for major ions, pH, total alka­
+linity, and distance of sampling point to the outcrop (i.e. horizontal 
+distance between the sampling point and the formation outcrop 
+following up dip). Correlations confirm that the determinant compounds 
+of TDS are Na+, Cl−, and HCO3
+−, with a strong positive correlation with 
+total alkalinity (0.93, 0.61, and 0.99, respectively). High chlorine and 
+sodium concentrations (57–973 mg/L and 486–2203 mg/L, respec­
+tively) may reflect past marine or marine-transitional environments. 
+Sulphate levels (avg. 11 mg/L) match with data from basins worldwide 
+where biogenic methane has been generated. Finally, bicarbonate 
+enrichment (avg. 2122 mg/L) is indicative of carbonate dissolution 
+processes by recharge waters and sulphate reduction (Flores, 2014; 
+Voast and Montana, 2003) (Fig. 7). 
+Principal component analysis (PCA) with clustering was conducted 
+using R-studio and the ‘Factoextra’ and ‘FactoMineR’ R Packages to 
+identify the association between major ions and water physicochemical 
+properties in the study field. PCA is a common statistical method used to 
+identify the pattern of similarity among inter-correlated dependent 
+variables (Abdi and Williams, 2010). Components included in the PCA 
+analysis were the major ions of Ca2+, Mg2+, Na+, Cl−, SO4
+2−, and 
+HCO3
+−, in addition to pH. The total dissolved solids parameter was not 
+included in this analysis since it is represented by the major ions. 
+Following the Kaiser criterion (Kaiser et al., 1994), for which eigen­
+values greater than 1 are considered for the hydrogeochemistry dataset, 
+PCs 1 and 2 explain 63.78% of the variance. PCs 3 to 7 represent vari­
+ance between 13 and 4%, indicating that the data is statistically divided 
+into three clusters (Fig. 8). PC1 describes 41.1% of database variability, 
+with positive loadings for Na+, Cl−, and HCO3
+−, whereas PC2 has pos­
+itive loadings for Ca2+ and Mg2+. In agreement with the Scholler plots 
+(Fig. 5), ionic concentration relationships identified in the clusters 
+correspond to the type of waters found in the Raton and Piceance basins 
+(Voast and Montana, 2003), with association of significant concentra­
+tions of sodium, bicarbonate, and chloride in PC1, and calcium‑mag­
+nesium type waters in PC2. 
+6.2. Gas molecular composition 
+Table 3 shows the gas chromatography database analysed in this 
+study, which includes CBM appraisal wells and deeper wells drilled to 
+test shale gas reservoirs. A comparison of these data was undertaken 
+where possible. Gas molecular composition is highly variable across 
+different basins and coal types. Gas molecular and isotopic composition 
+are ruled by expulsion, migration, and sorption variability, whereas gas 
+wetness is largely controlled by source and maturity (Golding et al., 
+2013 and references therein; Rice, 1993). Chemical composition of the 
+Fig. 7. Correlation plots for major ions, pH, total alkalinity, and distance to sub-crop in CBM co-produced waters. Lower panel shows correlation scatter plots 
+between the set of parameters; diagonal plots show a non-normal distribution of each parameter; upper panels show correlation Spearman coefficient (where + 1 =
+positive correlation and −1 = negative correlation). The bigger the font size, the higher the correlation; red stars indicate correlation significance ρ-value specifying 
+the strength of the correlation, with more stars signifying higher significance. (For interpretation of the references to colour in this figure legend, the reader is 
+referred to the web version of this article.) 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 9 ---
+International Journal of Coal Geology 249 (2022) 103882
+9
+gas in the Cuervos Formation is on average 98.23% CH4, 1.26% CO2, 
+0.24% N2, and 0.43% C+. On the other hand, the average molecular 
+composition for the shale gas wells is 94% CH4, 1.77% CO2, 0.67% N2, 
+and 1.85% C+. 
+The ratio of methane to the sum of ethane and propane (C1/(C2 +
+C3)) is commonly used to differentiate between microbial and thermo­
+genic gases. Thus, microbial gas is generally higher than 1000 (unitless), 
+whereas thermogenic gas usually presents values less than 100 (Bernard, 
+1978; Faiz and Hendry, 2006; Ghosh et al., 2018; Strąpo´
+c et al., 2008; 
+Whiticar, 1996). Gas dryness calculated for the database spans from 
+86.81 to 16,000. Lower values of gas dryness account for high C+ gases, 
+particularly for the wells Caporo-1, Caporo-3, and Caporo-2, whereas 
+high values represent less than 0.01% C+. 
+6.3. Gas stable isotopes 
+Thermal and biogenic processes in coal beds can be identified by the 
+interpretation of methane, carbon, and hydrogen isotopes, and their 
+combination with the molecular composition (Golding et al., 2013; 
+Strąpo´
+c et al., 2007; Strąpo´
+c et al., 2008; Whiticar, 1996). The carbon 
+isotope composition of thermogenic methane generally ranges from 
+−50‰ to −20‰ for δ13C-CH4, while the hydrogen isotope ratio ranges 
+from −275‰ to −100‰. Bacterial methane has δ13C-CH4 values from 
+−110‰ to −50‰, and δD-CH4 values from −400‰ to −150‰ (Whiti­
+car, 1999). These values are not strictly absolute; therefore, a combi­
+nation of methods is essential for an accurate interpretation (Golding 
+et al., 2013; Milkov and Etiope, 2018; Vinson et al., 2017). Table 4 
+presents stable isotopic ratios of samples analysed in the CRB La Loma 
+Field, with values from −65.1‰ to −60.3‰ for δ13C-CH4, and from 
+−211‰ to −189‰ for δ2H-CH4. Updated genetic diagrams modified 
+from Milkov and Etiope (2018) were used to show the correlation be­
+tween methane carbon isotopes and the gas dryness ratio, where the four 
+samples with both isotopic and molecular data plot in the primary mi­
+crobial gas origin field (Fig. 9). 
+A microbial gas origin was also confirmed by the methane, carbon, 
+and hydrogen isotope systematics (Fig. 10); however, the samples plot 
+on the boundary between the primary and secondary microbial field. 
+Hence, in Fig. 10, all gas samples (n = 20) plot in the carbonate 
+Fig. 8. A) Screen plot with dimensions and percentage of variance. B) Plot for the three principal components from the PCA of water quality parameters. The closer 
+to the centre of the graph, the less representative is the variance. Values in the table represent loadings for each variable in the principal component. 
+Table 3 
+Mean gas molecular composition of CBM and shale gases in the Cesar Sub-basin.  
+Field 
+Well 
+CO2 
+N2 
+C1 
+C2+
+Gas_dryness (C1/(C2 +
+C3)) 
+Dry_gas_index (C1/(C2 + C3 + C4 
++ C5)) 
+Gas_wetness ((C2 + C3 + C4 + C5)/(C1 + C2 + C3 
++ C4 + C5) 
+Caporo 
+Caporo-1 
+1.60 
+2.28 
+95.01 
+1.11 
+112.3 
+90.9 
+0.01 
+Caporo 
+Caporo-2 
+0.28 
+1.76 
+96.76 
+1.20 
+172.2 
+110.0 
+0.01 
+Caporo 
+Caporo- 
+21a 
+1.38 
+0.40 
+98.18 
+0.04 
+5295.9 
+4598.7 
+0.00 
+Caporo 
+Caporo-3 
+1.05 
+0.29 
+97.28 
+1.38 
+122.5 
+84.4 
+0.01 
+Caporo 
+CP 1705a 
+1.25 
+0.41 
+98.26 
+0.08 
+1637.6 
+1228.2 
+0.00 
+Caporo 
+CP 1708a 
+0.74 
+0.78 
+98.32 
+0.16 
+702.2 
+614.5 
+0.00 
+Caporo 
+CP 1711a 
+0.75 
+0.85 
+98.32 
+0.08 
+1638.7 
+1229.0 
+0.00 
+Hicotea 
+Hicotea-1 
+1.09 
+0.54 
+98.31 
+0.07 
+2970.6 
+2801.7 
+0.00 
+Iguana 
+Iguana-1 
+2.01 
+0.73 
+97.14 
+0.12 
+1489.8 
+1048.9 
+0.00 
+Iguana 
+Iguana-2 
+2.67 
+0.45 
+96.84 
+0.04 
+2716.7 
+2716.7 
+0.00 
+Iguana 
+Iguana-3 
+1.12 
+0.80 
+97.90 
+0.18 
+1632.5 
+1571.9 
+0.00 
+Iguana 
+Iguana-4 
+1.14 
+1.35 
+97.34 
+0.17 
+697.9 
+633.7 
+0.00 
+Iguana 
+Iguana-7 
+1.36 
+1.05 
+97.44 
+0.15 
+797.7 
+696.0 
+0.00 
+Iguana 
+Iguana D1 
+4.84 
+0.94 
+94.15 
+0.07 
+1490.7 
+1294.6 
+0.00 
+Caporo 
+Jagua 1D 
+0.68 
+1.55 
+93.61 
+4.16 
+25.8 
+23.8 
+0.04 
+Loma_Shale 
+Paujil-1 
+4.53 
+0.34 
+94.62 
+0.52 
+334.6 
+329.5 
+0.01 
+Loma_Shale 
+Canario-1 
+2.70 
+0.20 
+95.34 
+1.75 
+150.2 
+142.4 
+0.02 
+Loma_Shale 
+Canario-2 
+1.45 
+4.50 
+85.83 
+8.22 
+20.1 
+18.0 
+0.08 
+Loma_Shale 
+Canario-3 
+0.01 
+1.47 
+82.85 
+15.67 
+7.4 
+6.2 
+0.15 
+Caporo = coal seam wells; Iguana = CBM production wells; Loma Shale = deeper wells for injection and shale gas purposes, respectively. Gas dryness, dry gas index 
+and gas wetness formulas from (Golding et al., 2013) and references therein. 
+a Wells with isotope and hydrogeochemistry data. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 10 ---
+International Journal of Coal Geology 249 (2022) 103882
+10
+reduction field that indicates a biogenic origin. The samples also plot in 
+the carbonate reduction field in the traditional classification diagrams 
+for determining gas origin (presented as Whiticar-style plots) (Fig. 11), 
+whereas CBM gases of secondary microbial origin typically plot in the 
+mixed gas field in this diagram (Golding et al., 2013; Hamilton et al., 
+2020). 
+The mean hydrogen isotopic difference (ΔDH2O–CH4) of −157.4‰ 
+agrees with the expected isotopic fractionation for hydrogenotrophic 
+methanogenesis (Schoell, 1980; Strąpo´
+c et al., 2007). Moreover, the 
+observed 65.5‰ mean carbon isotopic difference (Δ13CH2O–CH4) be­
+tween carbon dioxide and methane corresponds to the typical microbial 
+CO2 reduction pathway (Golding et al., 2013; Smith and Pallasser, 1996; 
+Strąpo´
+c et al., 2007). 
+CO2 concentration in coal bed gases varies across a wide range, 
+reflecting multiple sources including atmospheric sources, soil sources, 
+microbially generated gas, kerogen thermal maturation, or magmatic 
+sources (Golding et al., 2013). The gas origin is commonly evaluated 
+using the relationship between carbon isotopic composition and CO2 
+concentration. Carbon dioxide concentrations in the study field (n = 5) 
+range from 0.01 to 4.08% (Table 3), while δ13C-CO2 values range from 
+1.9 to 3.8‰ (Table 4). The methanogenic pathway was also evaluated 
+through the carbon isotope fractionation (Δ13CCO2-CH4), where the 
+observed values range from 66.3 to 64.7. Most common carbon isotope 
+fractionation values for the CO2 reduction pathway lie between 60‰ to 
+80‰ (Golding et al., 2013). Fig. 13 shows the carbon isotope 
+Table 4 
+Isotopic composition of co-produced gas and water samples.  
+Gas sample 
+δ13C-CH4 VPDB ‰ 
+δ13C-CO2 VPDB ‰ 
+δ2H VSMOW‰ 
+Water sample 
+δ13C-DIC VPDB ‰ 
+δ2H-H2O VSMOW ‰ 
+δ18O-H2O VSMOW ‰ 
+CAPORO-21b 
+−61,1 
+3,5 
+−193 
+CAPORO-21 
+9,7 
+−4,9 
+−27,1 
+CP-1701 
+−61,2  
+−207 
+CP-1701 
+3,3 
+−7,6 
+−55,1 
+CP-1702 
+−60,7  
+−202 
+CP-1702 
+5,1 
+−7,6 
+−53,4 
+CP-1703 
+−61,8  
+−201 
+CP-1703 
+3,9 
+−7,5 
+−53,0 
+CP-1704 
+−60,3  
+−206 
+CP-1704 
+6,1 
+−7,3 
+−50,1 
+CP-1705b 
+−62,8 
+2,7 
+−192 
+CP-1705 
+8,0 
+−6,1 
+−39,1 
+CP-1706 
+−62,5 
+3,8 
+−190 
+CP-1706 
+8,2 
+−6,2 
+−38,4 
+CP-1707 
+−63,5 
+1,9 
+−191 
+CP-1707 
+7,6 
+−5,3 
+−30,8 
+CP-1708b 
+−64,2  
+−189 
+CP-1708 
+6,2 
+−4,4 
+−24,3 
+CP-1709 
+−61,2  
+−193 
+CP-1709 
+8,1 
+−5,0 
+−29,7 
+CP-1710 
+−62,9  
+−195 
+CP-17010 
+−0,9 
+−4,8 
+−29,3 
+CP-1711b 
+−65,1  
+−192 
+CP-17011 
+6,1 
+−4,6 
+−22,1 
+CP-1712 
+−61,7  
+−199 
+CP-17012 
+5,9 
+−7,3 
+−49,0 
+CP-1713 
+−61,8  
+−203 
+CP-17013 
+8,1 
+−6,9 
+−45,4 
+CP-1714 
+−64,7  
+−211 
+CP-17014 
+5,6 
+−7,5 
+−52,6 
+CP-1715 
+−63,0  
+−207 
+CP-17015 
+5,1 
+−7,5 
+−53,0     
+PZ52a 
+−21,2 
+−6,8 
+−44,9     
+PZ54a 
+−28,1 
+−8,4 
+−59,9     
+PZ-82Ra 
+−17,2 
+−6,0 
+−41,4     
+PZ-83Ra 
+−19,1 
+−5,4 
+−39,9     
+ZN-1(JAGUA-2D) 
+−5,0 
+−7,2 
+−54,9     
+ZN-2(JAGUA-2D) 
+−5,0 
+−3,1 
+−26,3  
+a Shallow piezometer samples above the coal sequence. 
+b Samples with gas composition and isotope data (see Fig. 8). 
+Fig. 9. Bernard parameter or gas dryness C1/(C2 + C3) vs. δ13C-CH4, for four 
+samples within La Loma field (Caporo21, CP-1705, CP-1708, CP-1711). CR =
+CO2 reduction; F = methyl-type fermentation; SM = secondary microbial; EMT 
+= early mature thermogenic gas; LMT = late mature thermogenesis; OA = oil- 
+associated thermogenic gas. Adapted from (Milkov and Etiope, 2018). 
+Fig. 10. Genetic diagrams based on δ13C-CH4 vs. δ2H-CH4 values (CR = CO2 
+reduction; F = methyl-type fermentation; SM = secondary microbial; EMT =
+early mature thermogenic gas; OA = oil-associated thermogenic gas; LMT =
+late mature thermogenic gas. Adapted from (Milkov and Etiope, 2018). 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 11 ---
+International Journal of Coal Geology 249 (2022) 103882
+11
+fractionation plot of δ13C-CO2 versus δ13C-CH4 (adapted from Milkov 
+and Etiope (2018)), in which the samples plot in the primary microbial 
+field, close to the boundary of the secondary microbial gas field. It 
+should be noted that limited data were available on δ13C-CO2 in our 
+dataset. 
+6.4. Water stable isotopes 
+Analytics applied to water samples included stable isotopes of δ2H- 
+H2O, δ18O-H2O, and δ13C-DIC (dissolved inorganic carbon). Table 4 
+provides carbon, hydrogen, and oxygen isotopic values of gas and water 
+in the study field. As expected, isotopic depletion trends mirror water 
+chemistry; thus, water samples falling below the GMWL have lower 
+values for HCO3
+−, Na+, and Cl−. On the other hand, waters plotting 
+above and to the left of the GMWL have higher concentrations of total 
+dissolved solids (TDS) represented by HCO3
+2−and Na+ as principal 
+determinants (Fig. 14). Water hydrogen isotope values range from 
+−59.9 to −22.1‰, while water oxygen isotope values span between 
+−8.4 and −3.1‰. (Fig. 14). Similarly, the plot of δ18O‰ versus δ2H‰ 
+for samples classified according to sample source reveals differences 
+between the waters from the CBM wells, shallow aquifers, and deeper 
+aquifers. Thus, waters from shallow alluvial and sandy Barco Formation 
+plot below and to the right of the GMWL. The set of samples from the 
+CBM wells exhibit two different trends: wells close to the outcrop (i.e. 
+shallow coal-bearing wells) plot below and to the right of the GWML, 
+whereas wells away from the outcrop plot above and to the left of the 
+GMWL (Fig. 14). 
+Several studies have outlined the causes of shifts in water isotopic 
+composition relative to the GMWL. Groundwater isotopic ratios to the 
+right of the GMWL are the result of factors such as mixing with older 
+formation waters, progressive evaporation, and water-rock interaction 
+under high-temperature conditions (Hamilton et al., 2014; Hamilton 
+et al., 2020; Kinnon et al., 2010). Processes that shift isotopic compo­
+sition to the left of the GMWL include precipitation of carbonates and 
+clays, and formation of clays by hydrolysis of feldspars and lithics in 
+sandstone (Hamilton et al., 2014; Hamilton et al., 2020; Kinnon et al., 
+2010). Methanogenesis in CBM co-produced waters is thought to be an 
+alternative process that can result in water isotope values that plot to the 
+left of the GMWL, preferentially removing light hydrogen from water 
+and allowing 2H enrichment (Baublys et al., 2015; Hamilton et al., 2014; 
+Hamilton et al., 2020; Kinnon et al., 2010). Changes in climate condi­
+tions may explain opposite depletion along the GMWL line (Fig. 14), 
+where CBM wells closer to the outcrop and shallow coal-bearing strata 
+show less 2H and 18O-depleted values. Surprisingly, co-produced waters 
+from deeper coal beds, or those further from the outcrop, exhibit more 
+positive values, in opposition to the trend expected for older waters 
+(Hamilton et al., 2020). 
+6.5. Dissolved inorganic carbon isotopes (δ13C-DIC) 
+The literature on dissolved inorganic carbon (DIC) highlights the 
+association of high DIC levels and 13C-enriched carbon isotopic 
+composition with secondary biogenic gas generation (Golding et al., 
+Fig. 11. Isotopic relation between carbon and hydrogen isotopes in methane. 
+Modified from (Golding et al., 2013; Whiticar, 1999). A biogenic origin for coal 
+bed gases from the Cesar Sub-basin via a hydrogenotrophic pathway (CO2 
+reduction) is also confirmed by the hydrogen isotope difference between the 
+hydrogen isotopes of methane and co-produced water (δ2H-CH4 vs. δ2H- 
+H2O) (Fig. 12). 
+Fig. 12. Stable isotopes of δ2H in methane vs. δ2H in water. Red and blue 
+dashed lines enclose the typical ΔDH2O–CH4 range for the microbial CO2 
+reduction pathway, typically between 150‰ to 170‰ (Golding et al., 2013), 
+and possibly indicate methane oxidation and mixing gases. (For interpretation 
+of the references to colour in this figure legend, the reader is referred to the web 
+version of this article.) 
+Fig. 13. Genetic diagram based on δ13C-CO2 vs. δ13C-CH4 values. The red 
+circles are the Cesar Sub-basin samples, with carbon isotope values for both 
+methane and carbon dioxide. Adapted from Milkov and Etiope (2018). (For 
+interpretation of the references to colour in this figure legend, the reader is 
+referred to the web version of this article.) 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 12 ---
+International Journal of Coal Geology 249 (2022) 103882
+12
+2013; Martini et al., 1998; Quillinan and Frost, 2014). In the literature, 
+DIC observed in waters associated with biogenic gas generation via the 
+carbonate reduction pathway commonly have positive δ13C-DIC values 
+(10‰ to 30‰), whereas most other waters associated with thermogenic 
+influences have negative δ13C-DIC values (−12‰ to −7‰) (Golding 
+et al., 2013; Martini et al., 1998; Quillinan and Frost, 2014). δ13C-DIC 
+values observed in the Cesar Sub-basin in the study field span from 
+−28.1‰ to 9.7‰, with a clear differentiation between waters from CBM 
+wells (−0.9‰ to 9.7‰) and those from shallow aquifers collected from 
+piezometers (−28.1‰ to −5‰) (Fig. 15). δ13C-DIC values paired with 
+high alkalinity showed in Fig. 16 are also an indicator of methanogenesis 
+(Baublys et al., 2015). While high alkalinity may be the result of bac­
+terial sulphate reduction, this typically results in 13C-depleted DIC car­
+bon isotopes. Fig. 16 shows that this is not the case, displaying high 
+alkalinity and positive δ13C-DIC values. 
+DIC carbon isotopes are also a common indicator of the degree of 
+methanogenesis, groundwater mixing, and volume of gas generation. 
+The literature indicates that coal beds in the Atlantic Rim, as well as in 
+the Powder River Basin, exhibit a progressive enrichment in δ13C-DIC 
+with increasing depth (Quillinan, 2011). This enrichment is likely the 
+result of the microbial consumption of light carbon during CO2 reduc­
+tion (Golding et al., 2013). Water samples from the study field showed 
+the same trend over a relatively short distance of ~4 km from outcrop to 
+the farthest sample from the outcrop. 
+6.6. Summary of findings and discussion 
+The main goals of this study were to understand the occurrence, 
+origin, and associated geological characteristics of coal seam gases in 
+sub-bituminous to high volatile bituminous Cuervos Formation, Cesar 
+Sub-basin (CS) through the analysis and interpretation of physical and 
+chemical data and stable isotopes of gas and water (Sanchez and Mann, 
+2015). 
+The geochemical characteristics of water from the Scholler and Piper 
+type diagrams showed differences between shallow aquifers and CBM 
+wells, generally analogous to those from CBM basins worldwide. CBM- 
+produced waters of the Cesar Sub-basin are of the HCO3
+2+ > Na+ >
+Cl−type, whereas shallow waters from both piezometers and eastern 
+CBM wells (Fig. 4) depicted an HCO3
+2+ > Ca2+ and HCO3
+2+ > Mg2+
+composition. Generally, these values are lower than reported for 
+Fig. 14. Oxygen (δ18O) vs. hydrogen (δ2H) 
+isotopic ratios from water samples collected 
+from La Loma Field Campo Caporo. Dashed 
+red line= Craig (1961) Equation for Global 
+Meteoric Water Line (GMWL), after Rozan­
+ski and Aragu´
+as-Aragu´
+as (1993) δ2H =
+8.13δ18O + 10.8. Colour pattern = well 
+type; bubble size = total dissolved solids. 
+The two groups of wells (green and blue) 
+crosscut the same coal bearing section, 
+where deeper wells penetrate deeper coal 
+beds. Distance between wells is ~1 km. (For 
+interpretation of the references to colour in 
+this figure legend, the reader is referred to 
+the web version of this article.)   
+Fig. 15. Dissolved inorganic carbon isotope (δ13CDIC) classified per well type. 
+Positive DIC values for CBM wells correspond to biogenic gas generation in the 
+study field. 
+Fig. 16. Dissolved inorganic carbon vs. total alkalinity and sodicity (SAR =
+([Na+]/(([Ca2+] + [Mg2+])/2)0.5) represented by bubble size. The dashed line 
+highlights the limit between positive and negative DIC values associated with 
+biogenic gas generation. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 13 ---
+International Journal of Coal Geology 249 (2022) 103882
+13
+methane-producing basins; this may be due to proximity to freshwater 
+recharge zones (Voast and Montana, 2003). 
+Laboratory results reported the same SO4
+2−value across the dataset 
+for the CBM wells, with an average of 11 mg/L. This is a low value, 
+which may indicate biochemical reduction of sulphate along the 
+groundwater flow path (Baublys et al., 2015; Voast and Montana, 2003). 
+The main constituents in the water (accounting for 90% of TDS) are 
+HCO3
+2+, Na+, and Cl−, with increasing concentrations south-east into 
+the basin and away from outcrop and the open cut area. By contrast, 
+Mg2+ and Ca2+ concentrations decrease with depth as a result of inor­
+ganic precipitation of calcite and dolomite in the presence of high 
+HCO3
+2+ concentrations (Voast and Montana, 2003). Minor ions in 
+studied waters are K+, Fe2+, CO3
+2−, and NO3
+−. Methane dominates gas 
+molecular composition in the Boqueron study field, with an average of 
+98.23% for CH4, and minor amounts of 1.26% for CO2, 0.24% for N2, 
+and 0.43% for C+. Gas dryness ratio indicates mostly dry gases associ­
+ated with microbial activity, which seems to corroborate gas composi­
+tion and isotopic data specifically for methane isotope composition. 
+The plot of δ18O‰ versus δ2H‰ displays two clusters for CBM water 
+samples: one for samples above the GMWL, and the other below. Several 
+authors have proposed that water samples above the GMWL may have 
+been modified by microbial activity (Baublys et al., 2015; Craig, 1961; 
+Golding et al., 2013; Hamilton et al., 2014; Hamilton et al., 2015). 
+Higher total dissolved solids correlate with water samples lying above 
+the GMWL, whereas those with lower TDS tend to plot below the GMWL. 
+This likely reflects the combined effects of fluid–rock interaction and 
+microbial processes. Molecular composition of the gas in the Cuervos 
+Formation is, on average, 98.23% CH4, 1.26% CO2, 0.24% N2, and 
+0.43% C+. Methane carbon and hydrogen isotopes, along with molec­
+ular composition, suggest a biogenic gas origin for CBM in the Cesar Sub- 
+basin, as well as methanogenic formation of methane via the CO2 
+reduction pathway. In support of this, positive values of δ13C-DIC in the 
+study field are consistent with a biogenic gas origin of CBM in the Cesar 
+Sub-basin. 
+This study presents evidence of biogenic gas, with hydrogentrophic 
+methanogenesis as the main pathway. However, the main discussion 
+centres around a primary versus secondary biogenic origin, since the 
+burial history of the basin suggests that secondary biogenesis might have 
+occurred. As this paper’s anonymous reviewers noted, while isotopes 
+show in situ methanogenesis in the groundwater and mixing of connate 
+and meteoric waters, these events in principle must have resulted from 
+uplifting in the basin, with the consequent generation of secondary 
+biogenic gas. Analytics such as gas dryness ratio, gas composition, and 
+different cross plots between hydrogen, carbon, and oxygen isotopes 
+from co-produced gas and waters show a biogenic gas origin as a by- 
+product of the hydrogenotrophic methanogenic pathway. Whiticar- 
+style plots confirmed a CO2 methanogenic pathway, but made no 
+conclusion in relation to primary or secondary biogenesis. Meanwhile, 
+revised diagenetic plots from Milkov and Etiope (2018) are equivocal 
+regarding primary versus secondary biogenesis, since the gas isotope 
+compositions plot close to the boundary between the primary and sec­
+ondary biogenic gas fields (Figs. 9, 13). These authors have highlighted 
+the possibility of misinterpreting early mature thermogenesis as primary 
+microbial gases—for instance, in the case of the Illinois Basin, where 
+deeper thermogenic gas was mixed with new microbial methane 
+through uplift (Strąpo´
+c et al., 2010). Other parameters and indices such 
+as gas dryness, the isotopic difference of Δ2HH2O–CH4 and Δ13CH2O–CH4, 
+the carbon isotope fractionation of δ13C-CO2 versus δ13C-CH4, and the 
+positive δ13C-DIC values are indicative of the CO2 reduction pathway, 
+but do not in themselves distinguish between primary and secondary 
+microbial methanogenesis. 
+On the other hand, according to studies on thermal maturation based 
+on vitrinite reflectance and sorption isotherms in the CRB (ANH, 2011; 
+Sanchez and Mann, 2015), the Cuervos Formation was deposited during 
+an abrupt pulse of subsidence in the Paleocene–Early Eocene, followed 
+by a regional erosive event that took place between the early Eocene to 
+pre-Oligocene. However, “the La Loma syncline […] shows a well pre­
+served Paleogene and Neogene section, indicating reduced exhumation 
+[…] because of its distant location from overthrusting mountain fronts 
+bounding the CRB” (Sanchez and Mann, 2015, p. 454). This compres­
+sional burial setting with a tectonic quiescence may have preserved 
+early biogenic gas in the coal; however, the evidence of mixing between 
+connate and meteoric waters makes this unlikely. It is also possible that 
+the commonly observed differences in the isotope systematics of pri­
+mary and secondary microbial gas (Milkov and Etiope, 2018) primarily 
+reflect the degree of openness in the system. In this context, Baublys 
+et al. (2015) have shown that the Walloon Subgroup of the Surat Basin, 
+Queensland, functions as a stagnant aquifer and that the groundwaters 
+and methane are older than previously thought. In such a setting, sub­
+strate limitation results in the less negative δ13C-CH4 and the strongly 
+positive δ13C-DIC values typically observed in secondary biogenic gases 
+relative to primary biogenic gases (Hamilton et al., 2014; Hamilton 
+et al., 2015; Milkov and Etiope, 2018). On the other hand, Hamilton 
+et al. (2020) have determined that most gas samples from a CBM pro­
+duction field in the Bowen Basin, Queensland, had methane and carbon 
+dioxide stable isotopes consistent with secondary biogenesis; these 
+samples nevertheless plotted close to the boundary between the sec­
+ondary and primary microbial fields on a Milkov and Etiope δ13C-CO2 
+versus δ13C-CH4 plot. Further detailed studies on the isotopic chemistry 
+across the basin, including carbon-14 dating, would assist a refined 
+interpretation of gas generation phases in the Sub-basin between 
+compartments. 
+One unanticipated finding was identified through analysis of the 
+relationship between oxygen and hydrogen isotopes, which served to 
+differentiate between typical water from meteoric sources, and 
+groundwaters that have experienced water–rock microbial reactions or 
+mixing under low-temperature water conditions. Contrary to the ex­
+pected findings, samples from shallow waters were depleted in the 
+lighter isotopes, whereas deeper (i.e. older) waters showed less deple­
+tion. This trend may be partly explained by differences in climatic/ 
+latitude conditions between old meteoric recharge waters and more 
+recent recharge. 
+As the three compartments in the La Loma Syncline in CSB present 
+particular structural settings (Fig. 1), the degree of gas generation may 
+have also experienced a slightly different history. The data show higher 
+average gas contents and coal rank in the Boqueron compartment, while 
+the lowest gas content levels are found in the Descanso area. Structur­
+ally, the Descanso compartment has a coal-bearing sequence around 
+150 m above the stratigraphic level in the Boqueron compartment, as 
+reported by Drummond Ltd (2012). In addition, there is a thinner 
+overburden above the Descanso coal sequence in the north-west, and 
+erosional truncation of the Cuervos Formation against the Eocene­
+–Oligocene unconformity towards the south-west. The Loma compart­
+ment also has high gas levels and higher coal rank, although these 
+readings were derived from wells drilled in the flanks of the syncline. An 
+Eocene sequence has been preserved in this compartment, putting the 
+Cuervos Formation in a deeper structural position and allowing a higher 
+temperature for methanogenesis. 
+Due to the structural position of the Cuervos Formation in the Des­
+canso compartment, it is possible that the systematics for biogenesis 
+follow the same trend as in Boqueron. However, mixing waters are more 
+likely due to the position of the formation near the surface below a thin 
+alluvium. In the La Loma compartment, on the other hand, the idea of 
+secondary biogenesis and early thermogenesis cannot be discarded, 
+given the structural and stratigraphic settings of the deeper coal seams 
+and the higher temperatures. More detailed sampling and testing of coal 
+bed gases is required in these compartments. 
+7. Conclusion 
+This study examined the gas and water chemical characteristics of 
+Cuervos Formation coal-bearing strata, analysing stable isotopic 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 14 ---
+International Journal of Coal Geology 249 (2022) 103882
+14
+composition, hydrogeochemistry and gas composition to identify water 
+and gas origin, geochemical facies, and patterns between gas and water 
+for producing wells. This research contributes to a better understanding 
+of the geological conditions leading to the occurrence and distribution of 
+coal bed gases in the Cesar Sub-basin and will assist with exploration 
+targeting for future production. 
+Coalification processes and associated early gas generation took 
+place between the mid to late Paleocene, in which burial conditions 
+allowed peat methanogens to produce carbon dioxide responsible for 
+microbial reduction and methane generation. Isotope results indicate 
+the presence of microbial gas at depths up to at least 530 m, possibly 
+from the diagenetic process in which coal reached sub-bituminous to 
+high volatile bituminous rank (Ro 0.4 to 0.6%), producing enough CO2 
+to provide feedstock for primary biogenesis. Although most of the 
+initially formed gas is presumed to have been lost prior to burial, Rice 
+(1993) suggests that biogenic gas can be generated during gelification at 
+early stages of burial at low ranks (Ro < 0.5%). This thesis is supported 
+by the curial models cited, which suggest that the Cuervos Formation 
+experienced a short period of burial and did not achieve temperatures 
+conducive to thermogenesis. While the occurrence of thermogenic gases 
+up to the maximum depth of 1.8 to 2 km at the base of the coal-bearing is 
+not rejected, there is no isotopic evidence to suggest that they migrated 
+upwards into the coal seams. 
+Diagnostics such as water and gas isotopic analysis, water chemistry, 
+and gas composition indicate that the analysed gas samples within the 
+Boqueron compartment are of biogenic origin. Nevertheless, the 
+geographical extent and location of the samples may indicate thermo­
+genesis in the deeper coal sequence. Gas and water stable isotope 
+composition from production wells confirmed biogenic gas origin 
+through several cross plots; it also allowed the identification of a 
+methanogenic pathway derived from CO2 reduction processes. The data 
+clustered at the boundary between primary and secondary biogenesis, 
+which was perplexing given the structural complexity in the area. This 
+should be explored further through an analysis of gases and waters from 
+the different structural compartments, coupled with age dating of the 
+waters. 
+Several questions remain to be answered. For instance, what is the 
+correlation between the gas and water chemistry and gas and water 
+production? Has the dewatering process accompanied chemical modi­
+fications in cation/anion concentrations? What has been the gas 
+composition variation as the reservoir was produced? According to the 
+data analysed, potential areas for CBM development are in the La Loma 
+and Descanso compartments below ~350 m depth, where higher rela­
+tive saturation and gas contents were identified. In order to correlate 
+these prospects, the drilling of a stratigraphic core well in the La Loma 
+compartment crossing the entire coal sequence is recommended. This 
+will allow access to core, gas, and water samples, providing a better 
+understanding of gas origin and saturation among compartments paired 
+with isotopic chemistry of coal bed methane waters and gases. 
+Finally, this study’s findings for the Boqueron compartment must be 
+tested against geochemical isotopic composition of production gas and 
+waters in the La Loma and Descanso synclines across different depth 
+ranges. Presumably, the La Loma compartment would have attained 
+thermogenesis since higher ranks and gas contents have been identified 
+by the operator company in exploration wells. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgments 
+The authors wish to acknowledge Drummond Energy Ltd., which 
+provided funding for field work, data collection, and laboratory analysis. 
+The University of Queensland Centre for Natural Gas is acknowledged 
+for the financial support given to the main researcher V. Sepulveda. The 
+authors also would like to thank the Vale UQ Coal Geoscience Program 
+in SEES for in-kind infrastructure support, and Ms. Kim Baublys and the 
+Stable Isotope Geochemistry Laboratory (SIGL), School of Earth and 
+Environmental Sciences, at the University of Queensland, Australia. 
+Special thanks to the anonymous reviewers for their constructive 
+insights. 
+References 
+Abdi, H., Williams, L.J., 2010. Principal component analysis. Wiley Interdiscipl. Rev. 
+Comput. Stat. 2 (4), 433–459. https://doi.org/10.1002/wics.101. 
+Agencia Nacional de Hidrocarburos, 2011. Petroleum Geology of Colombia: Geology and 
+Hydrocarbon Potential Cesar Rancheria Basin. Agencia Nacional de Hidrocarburos. 
+Agencia Nacional de Hidrocarburos, 2013. Caracterizaci´
+on Geol´
+ogica y Geoquímica de 
+las Doce Zonas Carboníferas de Colombia Con Base en Informaci´
+on Existente y con 
+Adquisici´
+on de Nuevos Datos Geoquímicos de los Carbones Colombianos, Para el 
+Dise˜
+no de las ´
+areas de Exploraci´
+on de Gas Asociado a Carb´
+on Tambi´
+en Denominado 
+Como Coal Bed Methane (CBM) en Colombia. [Geological and Geochemical 
+Characterization of the Twelve Carboniferous zOnes of Colombia Based on Existing 
+Information and with the Acquisition of New Geochemical Data on Colombian Coals, 
+for the Design of Gas Exploration Areas Associated with Coal, also known as Coal 
+Bed Methane (CBM) in Colombia]. Agencia Nacional de Hidrocarburos. 
+Agencia Nacional de Hidrocarburos-Colciencias, 2015. Caracterizaci´
+on Hidrogeologica e 
+Hidrogeoquimica de Las Areas Con Potencial Para Yacimientos no Convencionales 
+de Hidrocarburos, Tipo Coal Bed Methane – CBM. [Hydrogeological and 
+Hydrogeochemical Characterization of Areas with Potential for Unconventional 
+Hydrocarbon Deposits, Type Coal Bed Methane – CBM]. Agencia Nacional de 
+Hidrocarburos. 
+Angel Martinez, C.E., Huguett Granados, A.A., 1995. Evaluaci´
+on de Aguas Subterr´
+aneas 
+en el Departamento del Cesar: Informe Final. [Evaluation of Subterranean Waters in 
+the Cesar Sub-basin: Final Report]. Instituto Nacional de Investigaciones Geol´
+ogico 
+Mineras (INGEOMINAS), Bogot´
+a, Colombia.  
+Baublys, K.A., Hamilton, S.K., Golding, S.D., Vink, S., Esterle, J., 2015. Microbial controls 
+on the origin and evolution of coal seam gases and production waters of the Walloon 
+Subgroup, Surat Basin, Australia. Int. J. Coal Geol. 147–148, 85–104. https://doi. 
+org/10.1016/j.coal.2015.06.007. 
+Bernard, B.B., 1978. Light Hydrocarbons in Marine Sediments [PhD dissertation, Texas 
+A&M University]. ProQuest Dissertations Publishing. 
+Boreham, C.J., Golding, S.D., Glikson, M., 1998. Factors controlling the origin of gas in 
+Australian Bowen Basin coals. Org. Geochem. 29, 347–362. https://doi.org/ 
+10.1016/S0146-6380(98)00077-1. 
+Cediel, F., Shaw, R.P., 2019. Geology and Tectonics of Northwestern South America: The 
+Pacific-Caribbean-Andean Junction. Springer. 
+Charlotte, P.I., Dioni, I.C., Stuart, I.H., David, L., Rebecca, E.F., James, L.F., Euan, G.N., 
+Andy, B., Bryce, F.J.K., 2015. Assessing connectivity between an overlying aquifer 
+and a coal seam gas resource using methane isotopes, dissolved organic carbon and 
+tritium. Sci. Rep. 5, 15996 https://doi.org/10.1038/srep15996. 
+Claypool, G.E., Kaplan, I.R., 1974. The origin and distribution of methane in marine 
+sediments. In: Kaplan, I.R. (Ed.), Natural Gases in Marine Sediments. Springer, 
+pp. 39–139. https://doi.org/10.1007/978-1-4684-2757-8_8. 
+Clayton, J.L., 1998. Geochemistry of coal bed gas—a review. Int. J. Coal Geol. 35, 
+159–173. https://doi.org/10.1016/S0166-5162(97)00017-7. 
+Craig, H., 1961. Isotopic variations in meteoric waters. Science 133, 1702–1703. https:// 
+doi.org/10.1126/science.133.3465.1702. 
+Cruz-Ceballos, L.F., García-Gonz´
+alez, M., Cruz-Guevara, L.E., Avenda˜
+no-S´
+anchez, G.M., 
+2020. Geochemical characterization and thermal maturation of Cerrej´
+on Formation: 
+Implications for the petroleum system in the Ranchería Sub-Basin, Colombia. 
+Geosciences 10 (7), 1–18. https://doi.org/10.3390/geosciences10070258. 
+Drummond Ltd, 2012. Resultados del Programa de Evaluaci´
+on del Campo La Loma CBM 
+(Gas en Mantos de Carb´
+on). [Results of the Evaluation Program in La Loma Field 
+CBM]. Internal Report. 
+Faiz, M., Hendry, P., 2006. Significance of microbial activity in Australian coal bed 
+methane reservoirs—a review. Bull. Can. Petrol. Geol. 54, 261–272. https://doi.org/ 
+10.2113/gscpgbull.54.3.261. 
+Flores, R.M., 2014. Coal and Coal Bed Gas: Fueling the Future. Elsevier. 
+Flores, R.M., Rice, C.A., Stricker, G.D., Warden, A., Ellis, M.S., 2008. Methanogenic 
+pathways of coal-bed gas in the Powder River Basin, United States: the geologic 
+factor. Int. J. Coal Geol. 76 (1–2), 52–75. https://doi.org/10.1016/j. 
+coal.2008.02.005. 
+Guo, Q., Littke, R., Zieger, L., 2018. Petrographical and geochemical characterization of 
+sub-bituminous coals from mines in the Cesar-Ranchería Basin, Colombia. 
+International Journal of Coal Geology 191, 66–79. 
+Gao, L., Mastalerz, M., Schimmelmann, A., 2014. The Origin of coal bed methane. In: 
+Thakur, P., Schatzel, S., Aminian, K. (Eds.), Coal Bed Methane. Elsevier, pp. 7–29. 
+https://doi.org/10.1016/B978-0-12-800880-5.00002-4. 
+Ghosh, S., Golding, S.D., Varma, A.K., Baublys, K.A., 2018. Stable isotopic composition of 
+coal bed gas and associated formation water samples from Raniganj Basin, West 
+Bengal, India. Int. J. Coal Geol. 191, 1–6. https://doi.org/10.1016/j. 
+coal.2018.02.019. 
+Glencore International, 2011. Competent Person’s Report—Glencore Colombian Coal 
+Assets. https://www.miningdataonline.com/reports/Prodeco_May_2011_TR.pdf. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
+--- Página 15 ---
+International Journal of Coal Geology 249 (2022) 103882
+15
+Golding, S.D., Boreham, C.J., Esterle, J.S., 2013. Stable isotope geochemistry of coal bed 
+and shale gas and related production waters: a review. Int. J. Coal Geol. 120, 24–40. 
+https://doi.org/10.1016/j.coal.2013.09.001. 
+Hamilton, S., Golding, S., Esterle, J., Baublys, K., Ruyobya, B., 2020. Controls on gas 
+domains and production behaviour in a high-rank CSG reservoir: insights from 
+molecular and isotopic chemistry of co-produced waters and gases from the Bowen 
+Basin, Australia. Geosciences 10 (2), 74. https://doi.org/10.3390/ 
+geosciences10020074. 
+Hamilton, S.K., Golding, S.D., Baublys, K.A., Esterle, J.S., 2014. Stable isotopic and 
+molecular composition of desorbed coal seam gases from the Walloon Subgroup, 
+eastern Surat Basin, Australia. Int. J. Coal Geol. 122, 21–36. https://doi.org/ 
+10.3390/geosciences10020074. 
+Hamilton, S.K., Golding, S.D., Baublys, K.A., Esterle, J.S., 2015. Conceptual exploration 
+targeting for microbially enhanced coal bed methane (MECoM) in the Walloon 
+Subgroup, eastern Surat Basin, Australia. Int. J. Coal Geol. 138, 68–82. https://doi. 
+org/10.1016/j.coal.2014.12.002. 
+Kaiser, W.R., Hamilton, D.S., Scott, A.R., Tyler, R., Finley, R.J., 1994. Geological and 
+hydrological controls on the producibility of coal bed methane. Geol. Soc. 151 (3), 
+417–420. https://doi.org/10.1144/gsjgs.151.3.0417. 
+Kinnon, E., Golding, S.D., Boreham, C.J., Baublys, K.A., Esterle, J.S., 2010. Stable isotope 
+and water quality analysis of coal bed methane production waters and gases from the 
+Bowen Basin, Australia. Int. J. Coal Geol. 82, 219–231. https://doi.org/10.1016/j. 
+coal.2009.10.014. 
+Martini, A.M., Walter, L.M., Budai, J.M., Ku, T.C.W., Kaiser, C.J., Schoell, M., 1998. 
+Genetic and temporal relations between formation waters and biogenic methane: 
+Upper Devonian Antrim Shale, Michigan Basin, USA. Geochim. Cosmochim. Acta 62, 
+1699–1720. https://doi.org/10.1016/S0016-7037(98)00090-8. 
+Mastalerz, M., Drobniak, A., 2020. Coal bed methane: reserves, production, and future 
+outlook. In: Letcher, T.M. (Ed.), Future Energy, 3rd ed. Elsevier, pp. 97–109. https:// 
+doi.org/10.1016/B978-0-08-102886-5.00005-0. 
+Milkov, A.V., Etiope, G., 2018. Revised genetic diagrams for natural gases based on a 
+global dataset of >20,000 samples. Org. Geochem. 125, 109–120. https://doi.org/ 
+10.1016/j.orggeochem.2018.09.002. 
+Moore, M.T., Vinson, D.S., Whyte, C.J., Eymold, W.K., Walsh, T.B., Darrah, T.H., 2018. 
+Differentiating between biogenic and thermogenic sources of natural gas in coal bed 
+methane reservoirs from the Illinois Basin using noble gas and hydrocarbon 
+geochemistry. Geol. Soc. Spec. Publ. 486 (1), 151–188. https://doi.org/10.1144/ 
+sp468.8. 
+Pantano, C., 2012. Hydrogeochemical Controls on Microbial Coal Bed Methane 
+Accumulations in the Williston Basin, North Dakota [Master’s Thesis, University of 
+Arizona]. ProQuest Dissertations Publishing. 
+Pramod, T., Steve, S., Kashy, A., Thakur, P., Schatzel, S., Aminian, K., 2014. Coal Bed 
+Methane: From Prospect to Pipeline. Elsevier. 
+Quillinan, S.A., 2011. Geochemical and Isotopic Characterization of Water Associated 
+with Wyoming’s Coal Bed Natural Gas Development [Master’s Thesis, University of 
+Wyoming]. ProQuest Dissertations Publishing. 
+Quillinan, S.A., Frost, C.D., 2014. Carbon isotope characterization of powder river basin 
+coal bed waters: key to minimizing unnecessary water production and implications 
+for exploration and production of biogenic gas. Int. J. Coal Geol. 126, 106–119. 
+https://doi.org/10.1016/j.coal.2013.10.006. 
+Rice, C.A., Flores, R.M., Stricker, G.D., Ellis, M.S., 2008. Chemical and stable isotopic 
+evidence for water/rock interaction and biogenic origin of coal bed methane, Fort 
+Union Formation, Powder River Basin, Wyoming and Montana U.S.A. Int. J. Coal 
+Geol. 76 (1–2), 76–85. https://doi.org/10.1016/j.coal.2008.05.002. 
+Rice, D.D., 1993. Composition and origins of coal bed gas. In: Law, B.E., Rice, D.D. (Eds.), 
+Hydrocarbons from Coal. American Association of Petroleum Geologists. 
+Riese, W.C., Pelzmann, W.L., Snyder, G.T., 2005. New insights on the hydrocarbon 
+system of the Fruitland Formation coal beds, northern San Juan Basin, Colorado and 
+New Mexico, USA. Spec. Pap. Geol. Soc. Am. 387, 73–111. https://doi.org/10.1130/ 
+0-8137-2387-6.73. 
+Roadcap, G.S., Kelly, W.R., Bethke, C.M., 2005. Geochemistry of extremely alkaline (pH 
+> 12) ground water in slag-fill aquifers. Groundwater 43 (6), 806–816. https://doi. 
+org/10.1111/j.1745-6584.2005.00060.x. 
+Rozanski, K., Aragu´
+as-Aragu´
+as, L.R.G., 1993. Isotopic patterns in modern global 
+precipitation. In: Swart, P.K., Lohmann, K.C., Mckenzie, J., Savin, S. (Eds.), Climate 
+Change in Continental Isotopic Records. Wiley, pp. 1–36. 
+Sanchez, J., Mann, P., 2015. Integrated structural and basinal analysis of the Cesar- 
+Rancheria Basin, Colombia: Implications for its tectonic history and petroleum 
+systems. In: Bartolini, C., Mann, P. (Eds.), AAPG Memoir 108: Petroleum Geology 
+and Potential of the Colombian Caribbean Margin. American Association of 
+Petroleum Geologists. 
+Schoell, M., 1980. The hydrogen and carbon isotopic composition of methane from 
+natural gases of various origins. Geochim. Cosmochim. Acta 44, 649–661. https:// 
+doi.org/10.1016/0016-7037(80)90155-6. 
+Scott, A.R., Kaiser, W.R., Ayers Jr., W.B., 1994. Thermogenic and secondary biogenic 
+gases, San Juan Basin, Colorado and New Mexico—implications for coal bed gas 
+producibility. AAPG Bull. 78, 1186–1209. https://doi.org/10.1306/a25feaa9-171b- 
+11d7-8645000102c1865d. 
+Smith, J.W., Pallasser, R.J., 1996. Microbial origin of Australian coal bed methane. AAPG 
+Bull. 80, 891–897. https://doi.org/10.1306/64ed88fe-1724-11d7- 
+8645000102c186. 
+Strąpo´
+c, D., Mastalerz, M., Eble, C., Schimmelmann, A., 2007. Characterization of the 
+origin of coal bed gases in southeastern Illinois Basin by compound-specific carbon 
+and hydrogen stable isotope ratios. Org. Geochem. 38, 267–287. https://doi.org/ 
+10.1016/j.orggeochem.2006.09.005. 
+Strąpo´
+c, D., Mastalerz, M., Schimmelmann, A., Drobniak, A., Hedges, S., 2008. 
+Variability of geochemical properties in a microbially dominated coal bed gas system 
+from the eastern margin of the Illinois Basin, USA. Int. J. Coal Geol. 76, 98–110. 
+https://doi.org/10.1016/j.coal.2008.02.002. 
+Strąpo´
+c, D., Mastalerz, M., Schimmelmann, A., Drobniak, A., Hasenmueller, N.R., 2010. 
+Geochemical constraints on the origin and volume of gas in the New Albany Shale 
+(Devonian–Mississippian), eastern Illinois Basin. AAPG Bull. 94, 1713–1740. 
+https://doi.org/10.1306/06301009197. 
+Trilinear Diagram Interpretation, 2019. What is a Piper Plot (Trilinear Diagram). https 
+://support.goldensoftware.com/hc/en-us/articles/115003101648-What-is 
+-a-piper-plot-trilinear-diagram. 
+Vinson, D.S., Blair, N.E., Martini, A.M., Larter, S., Orem, W.H., McIntosh, J.C., 2017. 
+Microbial methane from in situ biodegradation of coal and shale: a review and 
+reevaluation of hydrogen and carbon isotope signatures. Chem. Geol. 453, 128–145. 
+https://doi.org/10.1016/j.chemgeo.2017.01.027. 
+Voast, W., Montana, V., 2003. Geochemical signature of formation waters associated 
+with coal bed methane. AAPG Bull. 87, 667–676. https://doi.org/10.1306/ 
+10300201079. 
+Whiticar, M., 1996. Stable isotope geochemistry of coals, humic kerogens and related 
+natural gases. Int. J. Coal Geol. 32, 191–215. https://doi.org/10.1016/S0166-5162 
+(96)00042-0. 
+Whiticar, M., 1999. Carbon and hydrogen isotope systematics of bacterial formation and 
+oxidation of methane. Chem. Geol. 161, 291–314. https://doi.org/10.1016/S0009- 
+2541(99)00092-3. 
+Whiticar, M., Faber, E., Schoell, M., 1986. Biogenic methane formation in marine and 
+freshwater environments: CO2 reduction vs. acetate fermentation—Isotope evidence. 
+Geochim. Cosmochim. Acta 50, 693–709. https://doi.org/10.1016/0016-7037(86) 
+90346-7. 
+V.M. Sepulveda-Castaneda et al.                                                                                                                                                                                                            
+
+
