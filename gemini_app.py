@@ -37,7 +37,7 @@ def extract_text_with_page_numbers(pdf_path):
 # Función para generar contenido usando la API de Gemini
 def multiturn_generate_content(text, container):
     # Selecciona el modelo de Gemini
-    model = genai.GenerativeModel(model="gemini-1.5-pro")
+    model = genai.GenerativeModel("gemini-1.5-pro")
 
     # Genera contenido en streaming para múltiples turnos
     response = model.generate_content(
