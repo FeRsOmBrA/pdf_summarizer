@@ -42,11 +42,7 @@ def multiturn_generate_content(text, container):
     # Genera contenido en streaming para múltiples turnos
     response = model.generate_content(
         text, 
-        stream=True, 
-        max_output_tokens=generation_config['max_output_tokens'],
-        temperature=generation_config['temperature'],
-        top_p=generation_config['top_p'],
-        safety_settings=safety_settings
+        stream=True
     )
     
     full_summary = ""
